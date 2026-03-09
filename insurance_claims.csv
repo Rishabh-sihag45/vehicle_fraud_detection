@@ -1,0 +1,1001 @@
+months_as_customer,age,policy_number,policy_bind_year,policy_state,policy_csl,policy_deductable,policy_annual_premium,insured_sex,insured_education_level,insured_occupation,incident_type,collision_type,incident_severity,total_claim_amount,vehicle_type,fraud_reported
+103,74,701763,2009,OH,250/500,1000,1164,MALE,Associate,prof-specialty,Parked Car,Rear Collision,Total Loss,26146,Sedan,N
+349,34,584090,2016,IN,500/1000,500,1320,FEMALE,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,13802,Sports Car,N
+271,56,973698,2005,IN,500/1000,1000,949,MALE,High School,craft-repair,Multi-vehicle Collision,Front Collision,Major Damage,9896,SUV,N
+107,39,776787,2009,IN,100/300,500,413,MALE,Associate,tech-support,Parked Car,Front Collision,Minor Damage,30133,SUV,N
+72,43,987164,2012,OH,250/500,1000,791,MALE,PhD,tech-support,Vehicle Theft,Front Collision,Minor Damage,15526,Sports Car,N
+189,61,389227,2017,IL,250/500,2000,1770,FEMALE,Masters,prof-specialty,Single Vehicle Collision,Side Collision,Major Damage,13278,SUV,N
+21,42,842406,2012,IL,250/500,2000,709,MALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,48010,SUV,Y
+103,34,943804,2015,OH,500/1000,2000,785,MALE,High School,sales,Vehicle Theft,Front Collision,Total Loss,27551,Sedan,N
+122,30,748074,2005,IN,250/500,1000,1632,FEMALE,College,prof-specialty,Multi-vehicle Collision,Front Collision,Total Loss,27298,Truck,N
+215,37,632101,2017,IL,500/1000,1000,1780,MALE,PhD,sales,Parked Car,Rear Collision,Minor Damage,37338,SUV,N
+331,42,131598,2007,IN,250/500,2000,1373,FEMALE,High School,craft-repair,Vehicle Theft,Front Collision,Total Loss,24191,SUV,N
+88,21,605934,2021,OH,250/500,2000,1991,FEMALE,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,35092,Truck,N
+373,27,882239,2009,IN,100/300,500,1517,FEMALE,Masters,exec-managerial,Parked Car,Rear Collision,Minor Damage,25871,Truck,Y
+100,20,717394,2012,IL,250/500,500,1516,MALE,College,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,11721,SUV,N
+360,58,389226,2018,IL,250/500,500,739,FEMALE,College,craft-repair,Single Vehicle Collision,Rear Collision,Total Loss,40413,Sports Car,Y
+152,62,915673,2008,IN,100/300,2000,996,FEMALE,PhD,exec-managerial,Vehicle Theft,Side Collision,Total Loss,32279,SUV,Y
+131,35,327286,2015,OH,500/1000,2000,1868,FEMALE,PhD,sales,Single Vehicle Collision,Front Collision,Major Damage,16404,Sports Car,N
+150,64,537785,2019,IN,500/1000,2000,1156,FEMALE,College,exec-managerial,Parked Car,Rear Collision,Minor Damage,6486,Sports Car,N
+309,53,111745,2011,OH,250/500,500,1445,MALE,College,craft-repair,Multi-vehicle Collision,Front Collision,Minor Damage,37198,Sports Car,Y
+258,64,912461,2015,IN,500/1000,1000,690,FEMALE,Masters,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,30687,Truck,N
+344,39,244097,2009,IL,250/500,2000,1908,MALE,College,sales,Parked Car,Side Collision,Total Loss,15156,SUV,N
+294,51,332732,2009,OH,100/300,1000,705,FEMALE,Associate,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,2567,SUV,N
+386,64,769648,2012,OH,100/300,1000,1033,MALE,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,4179,Sedan,N
+192,25,713474,2014,OH,250/500,1000,1551,FEMALE,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,4019,Truck,N
+277,57,984200,2010,IL,100/300,500,1024,MALE,PhD,prof-specialty,Parked Car,Side Collision,Total Loss,17919,Sedan,N
+161,66,313030,2019,IN,100/300,1000,1338,FEMALE,Associate,craft-repair,Parked Car,Front Collision,Major Damage,21703,Sedan,N
+314,61,824238,2020,IL,250/500,2000,1696,MALE,PhD,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,20704,Sports Car,N
+22,36,666134,2021,OH,250/500,500,1247,MALE,Associate,craft-repair,Parked Car,Rear Collision,Minor Damage,20030,Truck,Y
+253,59,438076,2012,IN,100/300,2000,841,MALE,College,tech-support,Parked Car,Front Collision,Total Loss,5909,Sedan,N
+236,58,248554,2012,IL,500/1000,2000,902,FEMALE,High School,prof-specialty,Vehicle Theft,Rear Collision,Minor Damage,10015,SUV,N
+345,54,385555,2013,OH,500/1000,500,529,MALE,PhD,tech-support,Single Vehicle Collision,Side Collision,Total Loss,5420,Sedan,N
+49,23,544191,2006,OH,250/500,2000,1555,MALE,Associate,craft-repair,Parked Car,Front Collision,Total Loss,49653,Truck,Y
+59,69,553761,2019,IL,250/500,2000,996,MALE,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,18740,SUV,N
+170,43,605518,2022,IL,500/1000,500,1905,MALE,College,craft-repair,Parked Car,Front Collision,Minor Damage,42253,SUV,N
+188,51,440941,2007,IL,100/300,2000,1261,FEMALE,High School,sales,Single Vehicle Collision,Rear Collision,Minor Damage,32328,SUV,N
+271,73,414451,2021,OH,500/1000,1000,1813,MALE,College,sales,Parked Car,Side Collision,Minor Damage,21465,Sports Car,N
+190,62,384186,2008,IL,500/1000,2000,992,MALE,Masters,sales,Vehicle Theft,Rear Collision,Major Damage,6131,SUV,N
+175,23,677218,2008,OH,500/1000,1000,1398,MALE,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,12652,Sports Car,N
+51,54,872944,2018,IL,500/1000,2000,724,FEMALE,Masters,prof-specialty,Parked Car,Rear Collision,Total Loss,23507,Sports Car,Y
+364,74,537629,2013,OH,250/500,500,1492,MALE,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,49147,Sedan,Y
+55,50,868747,2013,OH,250/500,500,847,MALE,Associate,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,49671,Sedan,Y
+244,70,324695,2022,IN,100/300,2000,1951,MALE,College,craft-repair,Parked Car,Rear Collision,Minor Damage,25806,SUV,N
+320,39,984315,2014,IL,100/300,500,1218,MALE,College,tech-support,Vehicle Theft,Front Collision,Total Loss,21171,Truck,N
+131,38,395900,2008,IL,100/300,2000,1588,FEMALE,College,craft-repair,Multi-vehicle Collision,Front Collision,Major Damage,22593,SUV,N
+307,23,153268,2016,OH,100/300,500,1911,MALE,PhD,craft-repair,Vehicle Theft,Front Collision,Total Loss,11470,Sedan,N
+135,23,532430,2012,OH,500/1000,1000,1108,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,46308,SUV,Y
+21,72,312943,2006,OH,250/500,2000,1849,FEMALE,Masters,craft-repair,Parked Car,Rear Collision,Major Damage,23326,Sedan,N
+329,65,883204,2017,IN,250/500,1000,664,FEMALE,Masters,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,6597,SUV,Y
+167,21,521818,2020,IN,100/300,1000,1011,FEMALE,PhD,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,39304,Truck,Y
+274,47,808691,2006,OH,100/300,2000,1765,MALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,32788,SUV,Y
+388,28,673189,2015,IL,500/1000,1000,1231,FEMALE,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,44725,Truck,Y
+89,47,462130,2014,IL,500/1000,2000,1701,MALE,Associate,craft-repair,Parked Car,Side Collision,Minor Damage,38930,Truck,N
+316,48,294488,2019,IN,100/300,1000,1073,FEMALE,PhD,sales,Single Vehicle Collision,Side Collision,Minor Damage,35071,SUV,N
+14,41,787556,2021,IN,250/500,2000,1862,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,7067,Truck,Y
+242,72,490530,2012,OH,250/500,2000,556,FEMALE,College,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,7024,Truck,Y
+265,26,892058,2022,IL,250/500,500,1845,MALE,High School,prof-specialty,Vehicle Theft,Rear Collision,Total Loss,9715,Sedan,Y
+346,72,762784,2013,OH,100/300,2000,650,FEMALE,High School,sales,Parked Car,Rear Collision,Total Loss,33770,Sedan,Y
+53,20,899289,2012,IN,250/500,2000,1277,MALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,13226,Truck,N
+386,68,341531,2018,IL,500/1000,1000,929,MALE,Masters,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,37399,Sports Car,N
+340,48,346693,2022,IL,500/1000,2000,726,MALE,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,15412,SUV,N
+92,57,803650,2016,IN,100/300,500,1360,MALE,Associate,sales,Single Vehicle Collision,Side Collision,Major Damage,49805,Truck,Y
+367,54,650719,2018,OH,500/1000,1000,1294,MALE,PhD,craft-repair,Vehicle Theft,Side Collision,Major Damage,46415,SUV,Y
+264,53,971408,2021,OH,100/300,1000,496,MALE,Associate,prof-specialty,Single Vehicle Collision,Front Collision,Total Loss,14569,Sedan,N
+35,41,338360,2007,IL,250/500,500,912,MALE,Associate,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,4369,SUV,N
+206,48,444855,2011,IN,250/500,1000,615,MALE,Associate,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,46427,Truck,Y
+81,23,607403,2021,IL,250/500,1000,1555,FEMALE,College,prof-specialty,Parked Car,Side Collision,Major Damage,34021,Truck,Y
+50,19,126385,2016,IN,500/1000,1000,1683,MALE,Associate,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,2528,Truck,N
+360,37,531374,2013,OH,100/300,1000,524,MALE,Associate,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,45270,Truck,Y
+388,45,516235,2019,IN,250/500,500,1505,FEMALE,College,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,32314,Sports Car,N
+2,28,380783,2022,OH,100/300,500,1706,MALE,College,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,39443,Sports Car,Y
+390,21,185530,2017,IN,250/500,1000,458,FEMALE,PhD,tech-support,Parked Car,Front Collision,Major Damage,20047,Sports Car,N
+54,32,855271,2012,IL,500/1000,1000,1967,MALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,21748,Truck,N
+106,23,383707,2018,OH,500/1000,500,560,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,37109,Sports Car,N
+260,71,477816,2012,IL,100/300,500,683,FEMALE,High School,prof-specialty,Multi-vehicle Collision,Side Collision,Minor Damage,15919,SUV,N
+310,66,529660,2018,IL,500/1000,500,505,MALE,Associate,sales,Vehicle Theft,Front Collision,Total Loss,49498,Truck,Y
+191,47,501927,2011,OH,500/1000,1000,1528,FEMALE,PhD,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,17256,Sedan,N
+218,73,829678,2016,OH,100/300,1000,1862,MALE,Associate,prof-specialty,Multi-vehicle Collision,Front Collision,Total Loss,6905,Truck,N
+44,55,445114,2015,IL,250/500,2000,627,MALE,High School,prof-specialty,Parked Car,Front Collision,Total Loss,10884,SUV,N
+162,68,343373,2015,IL,500/1000,500,717,MALE,College,craft-repair,Vehicle Theft,Side Collision,Major Damage,30906,Sports Car,Y
+202,74,447697,2017,IL,100/300,1000,1887,MALE,Masters,craft-repair,Vehicle Theft,Front Collision,Major Damage,43911,Truck,Y
+270,19,261779,2022,IL,500/1000,500,1201,FEMALE,PhD,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,7950,Sports Car,N
+351,32,270182,2006,OH,500/1000,1000,1273,MALE,College,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,3360,Truck,Y
+304,28,817148,2019,OH,500/1000,500,871,FEMALE,Masters,sales,Vehicle Theft,Front Collision,Major Damage,39895,SUV,Y
+271,25,707167,2022,IL,500/1000,1000,1479,FEMALE,PhD,sales,Parked Car,Rear Collision,Total Loss,23946,Truck,Y
+215,43,338260,2019,IN,100/300,2000,1024,MALE,PhD,sales,Single Vehicle Collision,Front Collision,Total Loss,49020,Sports Car,Y
+252,68,931291,2016,IN,100/300,2000,412,MALE,High School,sales,Single Vehicle Collision,Rear Collision,Major Damage,10730,Sports Car,N
+190,62,938530,2017,OH,100/300,500,1863,MALE,College,prof-specialty,Vehicle Theft,Rear Collision,Total Loss,24161,SUV,N
+296,61,770611,2015,IL,500/1000,1000,1441,MALE,PhD,prof-specialty,Vehicle Theft,Front Collision,Major Damage,29738,Truck,Y
+213,22,746701,2009,IL,500/1000,1000,1093,FEMALE,PhD,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,5925,Sedan,N
+208,23,886958,2005,OH,500/1000,500,1372,MALE,Masters,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,10463,Truck,N
+237,43,430904,2007,IN,100/300,1000,512,FEMALE,High School,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,19412,SUV,N
+338,71,147837,2011,IN,500/1000,500,628,MALE,Associate,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,24402,Sedan,Y
+367,21,618349,2016,IN,250/500,1000,570,MALE,High School,prof-specialty,Vehicle Theft,Side Collision,Minor Damage,36010,SUV,N
+53,36,884838,2019,OH,500/1000,500,694,MALE,Associate,sales,Multi-vehicle Collision,Front Collision,Major Damage,27717,Truck,N
+280,37,897968,2009,IN,250/500,1000,588,MALE,College,sales,Parked Car,Side Collision,Total Loss,43552,Sedan,Y
+217,50,652829,2019,OH,500/1000,500,825,FEMALE,College,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,11797,SUV,N
+252,37,179083,2012,OH,100/300,1000,1376,FEMALE,PhD,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,22594,Sports Car,N
+188,66,658819,2014,IL,500/1000,2000,1502,MALE,College,sales,Single Vehicle Collision,Side Collision,Total Loss,8406,Sedan,N
+380,29,370856,2020,IN,250/500,1000,1057,FEMALE,PhD,craft-repair,Vehicle Theft,Front Collision,Major Damage,15965,Sedan,N
+41,64,466245,2012,OH,250/500,500,1318,FEMALE,High School,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,15733,SUV,N
+157,18,951887,2005,IN,500/1000,2000,1605,MALE,College,craft-repair,Parked Car,Side Collision,Total Loss,28926,Sports Car,N
+15,43,699032,2016,IN,250/500,1000,898,MALE,High School,craft-repair,Vehicle Theft,Front Collision,Total Loss,30783,Sedan,Y
+301,31,877147,2009,IL,250/500,2000,1161,FEMALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,19824,SUV,N
+65,55,754037,2007,IN,100/300,1000,1265,FEMALE,College,sales,Parked Car,Side Collision,Major Damage,38394,Sedan,Y
+345,54,891541,2005,IL,500/1000,2000,1225,FEMALE,High School,tech-support,Single Vehicle Collision,Front Collision,Total Loss,44842,Sedan,Y
+327,28,935700,2008,OH,500/1000,500,470,FEMALE,College,prof-specialty,Multi-vehicle Collision,Front Collision,Minor Damage,30287,Sedan,N
+9,53,856097,2012,IN,500/1000,1000,647,MALE,College,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,18568,Sports Car,N
+344,30,941047,2007,OH,250/500,1000,545,MALE,College,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,32436,Truck,N
+129,60,706791,2014,IN,500/1000,500,1719,FEMALE,Associate,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,23380,Truck,N
+136,20,354346,2006,OH,500/1000,2000,981,MALE,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,26796,Sports Car,N
+63,50,709996,2015,IN,100/300,500,869,FEMALE,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,10031,Sports Car,Y
+139,23,815472,2014,IN,100/300,500,1929,FEMALE,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,23947,SUV,N
+81,67,726759,2018,IN,100/300,2000,592,MALE,High School,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,5188,Sedan,N
+392,73,878513,2011,IN,250/500,500,1491,FEMALE,PhD,craft-repair,Vehicle Theft,Rear Collision,Total Loss,27669,Sports Car,N
+163,27,257661,2006,IN,500/1000,1000,893,FEMALE,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,37713,SUV,Y
+289,22,785375,2013,IN,100/300,1000,451,MALE,College,tech-support,Parked Car,Side Collision,Major Damage,33813,Truck,Y
+379,40,260081,2020,IN,100/300,1000,1281,MALE,Masters,tech-support,Parked Car,Front Collision,Minor Damage,8765,Truck,Y
+261,27,969741,2017,IN,100/300,500,762,FEMALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,25171,Truck,N
+231,61,488590,2013,IN,500/1000,1000,1316,FEMALE,Associate,prof-specialty,Single Vehicle Collision,Rear Collision,Total Loss,12807,Truck,Y
+41,19,817406,2008,OH,500/1000,1000,873,MALE,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,12204,SUV,N
+28,30,993093,2014,IL,500/1000,1000,920,FEMALE,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,29066,Sedan,N
+135,57,781503,2016,IN,250/500,1000,1854,FEMALE,PhD,exec-managerial,Parked Car,Front Collision,Major Damage,44120,SUV,Y
+201,19,106154,2021,IL,250/500,1000,1721,MALE,PhD,prof-specialty,Vehicle Theft,Side Collision,Major Damage,39367,Sedan,Y
+328,37,777164,2018,IN,100/300,1000,1858,MALE,High School,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,24658,Truck,N
+268,18,164288,2018,IN,500/1000,500,1090,MALE,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,39081,Sports Car,N
+33,54,151195,2006,OH,100/300,1000,1621,MALE,PhD,tech-support,Vehicle Theft,Rear Collision,Total Loss,36986,Sports Car,Y
+48,26,382725,2015,OH,500/1000,1000,1551,MALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,15786,Sports Car,N
+62,34,545864,2020,IL,500/1000,2000,931,MALE,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,31283,Sedan,Y
+216,26,392231,2010,OH,500/1000,500,1834,FEMALE,Masters,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,2056,Truck,N
+293,28,805290,2009,OH,250/500,500,1239,FEMALE,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,47301,SUV,Y
+99,32,264053,2008,IL,250/500,500,1488,MALE,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,34911,Sports Car,Y
+172,41,693586,2019,OH,500/1000,500,640,MALE,PhD,sales,Vehicle Theft,Rear Collision,Total Loss,41986,Sedan,Y
+360,55,932599,2008,IN,100/300,1000,1792,FEMALE,College,prof-specialty,Parked Car,Side Collision,Major Damage,10559,Sports Car,Y
+214,72,830664,2014,IL,500/1000,1000,935,FEMALE,Associate,tech-support,Vehicle Theft,Side Collision,Total Loss,28058,SUV,N
+35,52,536624,2007,IL,500/1000,2000,1807,FEMALE,College,sales,Single Vehicle Collision,Rear Collision,Total Loss,24745,Truck,N
+227,47,139499,2009,IN,100/300,2000,1854,MALE,College,prof-specialty,Parked Car,Front Collision,Minor Damage,2615,SUV,N
+101,48,487960,2010,OH,500/1000,500,482,MALE,Associate,sales,Multi-vehicle Collision,Side Collision,Total Loss,10062,Truck,N
+131,66,545485,2012,IL,100/300,2000,1381,FEMALE,Associate,prof-specialty,Single Vehicle Collision,Side Collision,Major Damage,30214,Truck,Y
+257,22,793919,2011,IL,250/500,2000,1350,MALE,College,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,46288,Truck,Y
+5,61,345198,2014,IN,250/500,500,1010,MALE,Associate,tech-support,Parked Car,Side Collision,Total Loss,40745,Sports Car,Y
+218,67,567535,2010,IN,100/300,500,973,MALE,High School,craft-repair,Multi-vehicle Collision,Side Collision,Major Damage,46187,SUV,Y
+255,31,867285,2018,OH,250/500,2000,685,FEMALE,Associate,prof-specialty,Parked Car,Front Collision,Minor Damage,44548,Sports Car,N
+398,70,720635,2008,IL,250/500,1000,1388,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Front Collision,Total Loss,12681,SUV,N
+359,73,410931,2017,OH,100/300,2000,1957,MALE,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,8984,Sedan,Y
+283,28,397632,2021,OH,250/500,2000,858,MALE,High School,craft-repair,Vehicle Theft,Rear Collision,Total Loss,29579,Sedan,N
+393,26,436585,2011,IN,500/1000,1000,1635,MALE,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,27274,SUV,N
+207,51,830023,2008,IL,500/1000,1000,525,MALE,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,39739,SUV,Y
+15,29,122431,2018,IL,100/300,500,1836,MALE,PhD,craft-repair,Vehicle Theft,Side Collision,Total Loss,29399,SUV,N
+346,52,423825,2007,IL,250/500,500,1922,FEMALE,Associate,sales,Multi-vehicle Collision,Side Collision,Major Damage,33481,SUV,Y
+42,52,294555,2009,IN,500/1000,2000,824,MALE,Associate,tech-support,Parked Car,Side Collision,Major Damage,2944,Truck,N
+380,18,747008,2020,IN,500/1000,1000,953,MALE,High School,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,30457,Sports Car,Y
+179,57,673441,2008,IN,250/500,500,1009,MALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,11114,Truck,N
+63,39,368512,2006,IN,250/500,2000,1966,FEMALE,PhD,prof-specialty,Parked Car,Rear Collision,Major Damage,41846,Sports Car,Y
+352,46,998792,2022,IN,500/1000,1000,1581,FEMALE,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,20130,Sports Car,N
+231,25,276076,2021,IL,500/1000,2000,511,MALE,Associate,prof-specialty,Vehicle Theft,Rear Collision,Total Loss,14312,Sports Car,Y
+241,28,319724,2018,OH,100/300,500,801,FEMALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,34596,Truck,Y
+52,58,999187,2017,IL,100/300,500,521,FEMALE,PhD,prof-specialty,Parked Car,Rear Collision,Total Loss,40551,SUV,Y
+96,54,681273,2016,OH,500/1000,1000,672,FEMALE,College,craft-repair,Single Vehicle Collision,Side Collision,Major Damage,11751,Truck,N
+388,31,936501,2010,IN,100/300,2000,1717,FEMALE,Masters,prof-specialty,Single Vehicle Collision,Front Collision,Total Loss,8907,Truck,N
+222,47,414470,2008,OH,500/1000,1000,797,FEMALE,PhD,sales,Multi-vehicle Collision,Front Collision,Minor Damage,30114,Sports Car,N
+231,52,733025,2020,IL,500/1000,500,870,FEMALE,High School,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,27009,Sedan,N
+237,38,836421,2017,IL,100/300,500,1384,MALE,College,tech-support,Parked Car,Rear Collision,Minor Damage,21310,Sedan,N
+143,54,778758,2008,OH,100/300,2000,1630,FEMALE,PhD,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,37725,Truck,Y
+171,22,853753,2021,IN,250/500,2000,1533,FEMALE,PhD,sales,Parked Car,Rear Collision,Minor Damage,20996,Sports Car,N
+29,36,150861,2005,IN,250/500,2000,1863,MALE,Associate,tech-support,Vehicle Theft,Rear Collision,Minor Damage,8047,Truck,N
+36,31,438041,2022,IL,250/500,1000,1701,MALE,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,41017,Truck,Y
+13,43,312977,2021,OH,500/1000,2000,1991,MALE,Associate,sales,Parked Car,Side Collision,Total Loss,30767,SUV,Y
+160,21,751406,2019,IN,100/300,2000,968,MALE,College,tech-support,Vehicle Theft,Front Collision,Total Loss,18347,Sports Car,N
+327,42,955009,2015,IN,500/1000,500,1905,FEMALE,PhD,prof-specialty,Parked Car,Side Collision,Minor Damage,38527,Sedan,N
+187,62,821001,2017,IL,100/300,500,1537,FEMALE,Associate,craft-repair,Vehicle Theft,Side Collision,Major Damage,26102,Sedan,N
+243,59,109078,2005,IN,500/1000,2000,1296,FEMALE,Masters,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,6263,Sedan,N
+86,42,424912,2021,OH,250/500,2000,1219,FEMALE,College,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,45049,Truck,Y
+284,35,675335,2010,IL,250/500,500,1252,MALE,High School,prof-specialty,Single Vehicle Collision,Side Collision,Major Damage,3902,Sports Car,Y
+66,57,958058,2008,IL,250/500,2000,1900,FEMALE,Associate,tech-support,Vehicle Theft,Rear Collision,Major Damage,32823,SUV,Y
+170,25,944092,2020,OH,500/1000,1000,1109,FEMALE,College,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,32540,Sedan,Y
+45,56,859746,2019,IL,100/300,1000,720,MALE,High School,sales,Parked Car,Side Collision,Minor Damage,37335,Sports Car,N
+62,57,495141,2019,IN,100/300,1000,578,FEMALE,Associate,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,12190,Sedan,N
+134,31,315048,2010,IN,250/500,2000,1296,FEMALE,College,prof-specialty,Parked Car,Front Collision,Major Damage,42843,SUV,Y
+284,49,860581,2019,OH,250/500,500,618,FEMALE,College,tech-support,Parked Car,Side Collision,Minor Damage,29690,Sports Car,N
+28,68,742120,2018,IN,250/500,2000,1188,FEMALE,Associate,craft-repair,Single Vehicle Collision,Rear Collision,Major Damage,4994,Truck,N
+108,55,749438,2015,OH,250/500,2000,1951,MALE,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,39997,Truck,N
+44,50,257087,2011,OH,100/300,500,891,MALE,PhD,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,4010,Sedan,N
+340,40,133320,2013,IN,500/1000,500,460,MALE,Associate,tech-support,Single Vehicle Collision,Side Collision,Total Loss,9377,Sedan,N
+286,32,427025,2020,OH,500/1000,500,1477,MALE,College,sales,Single Vehicle Collision,Side Collision,Major Damage,15036,Sports Car,N
+331,50,715115,2009,IN,500/1000,1000,937,MALE,High School,tech-support,Parked Car,Rear Collision,Major Damage,28467,SUV,N
+128,42,613287,2014,IL,500/1000,2000,1247,FEMALE,High School,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,2048,Sedan,N
+348,34,464359,2022,IL,250/500,500,1387,FEMALE,PhD,tech-support,Parked Car,Rear Collision,Major Damage,38978,Sports Car,Y
+231,50,359931,2007,OH,250/500,2000,464,MALE,Associate,exec-managerial,Vehicle Theft,Front Collision,Total Loss,49606,SUV,Y
+190,64,506845,2017,IN,250/500,1000,985,MALE,College,prof-specialty,Parked Car,Side Collision,Total Loss,18038,Sedan,N
+225,72,947982,2015,IN,500/1000,1000,570,MALE,College,tech-support,Parked Car,Front Collision,Total Loss,34576,Sedan,Y
+385,19,649114,2021,IL,250/500,500,1696,FEMALE,High School,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,9878,Sports Car,N
+377,31,200734,2017,IL,250/500,500,934,MALE,PhD,sales,Single Vehicle Collision,Front Collision,Minor Damage,29609,Sedan,N
+283,70,257702,2010,IN,100/300,2000,1814,FEMALE,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,26070,Truck,N
+121,57,854122,2021,OH,100/300,500,1092,FEMALE,High School,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,42647,SUV,Y
+116,57,277235,2017,IL,250/500,2000,1750,FEMALE,PhD,craft-repair,Single Vehicle Collision,Rear Collision,Major Damage,23996,SUV,N
+233,68,198511,2014,OH,100/300,500,507,FEMALE,Associate,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,20161,Truck,N
+259,56,373797,2007,OH,100/300,2000,1585,MALE,College,prof-specialty,Multi-vehicle Collision,Front Collision,Minor Damage,48022,Sports Car,N
+359,68,783321,2018,IL,250/500,2000,1213,FEMALE,Associate,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,42148,Truck,Y
+198,23,706229,2009,OH,250/500,2000,1404,FEMALE,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,4228,Truck,N
+137,23,829497,2009,OH,250/500,2000,851,MALE,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,28365,SUV,Y
+318,20,920094,2021,IN,250/500,1000,1629,FEMALE,Masters,prof-specialty,Parked Car,Side Collision,Total Loss,27188,Sports Car,N
+165,24,198818,2014,OH,500/1000,2000,989,FEMALE,PhD,craft-repair,Vehicle Theft,Front Collision,Total Loss,44582,Sedan,Y
+225,68,252360,2009,IN,500/1000,500,1439,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,10888,Truck,N
+307,25,877915,2008,IL,250/500,1000,726,MALE,Associate,prof-specialty,Parked Car,Side Collision,Major Damage,25130,Truck,N
+234,59,719369,2010,IL,100/300,1000,1007,FEMALE,College,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,41159,Sports Car,Y
+172,69,661165,2008,IN,250/500,2000,1058,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,44197,Truck,N
+152,32,473706,2011,IL,250/500,1000,401,MALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,20790,Sports Car,N
+315,64,311957,2011,OH,100/300,2000,1433,MALE,Masters,sales,Parked Car,Rear Collision,Major Damage,26824,Sedan,N
+374,46,172715,2022,OH,500/1000,500,833,FEMALE,Masters,craft-repair,Parked Car,Side Collision,Major Damage,35405,Sports Car,Y
+160,50,241398,2007,OH,250/500,2000,524,FEMALE,College,prof-specialty,Parked Car,Side Collision,Minor Damage,26474,Sedan,N
+96,69,734379,2005,IL,250/500,1000,1504,MALE,PhD,prof-specialty,Single Vehicle Collision,Side Collision,Total Loss,19333,Sports Car,N
+233,47,619052,2008,OH,500/1000,500,884,FEMALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,44864,Truck,Y
+180,56,232632,2010,IL,500/1000,2000,1051,MALE,PhD,craft-repair,Vehicle Theft,Front Collision,Total Loss,38355,Sedan,Y
+113,44,965580,2013,OH,100/300,500,1573,FEMALE,Associate,craft-repair,Parked Car,Rear Collision,Total Loss,35879,Truck,Y
+318,53,183186,2018,IN,500/1000,500,1199,MALE,PhD,craft-repair,Vehicle Theft,Side Collision,Minor Damage,10367,Sedan,N
+52,46,787250,2016,IL,500/1000,1000,1272,FEMALE,Associate,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,2722,Sports Car,Y
+268,55,251094,2008,IL,500/1000,500,1763,MALE,Associate,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,33145,Sports Car,N
+295,74,694604,2016,OH,100/300,1000,528,MALE,High School,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,39634,Sports Car,N
+386,50,128380,2014,IL,500/1000,500,837,MALE,College,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,12139,SUV,N
+387,54,734486,2011,IL,500/1000,2000,1150,MALE,High School,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,4128,SUV,Y
+113,44,364500,2007,IN,100/300,500,900,MALE,PhD,prof-specialty,Parked Car,Front Collision,Major Damage,43886,Sedan,Y
+101,72,170326,2018,IN,500/1000,2000,1481,FEMALE,Associate,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,22617,SUV,N
+113,50,978879,2014,OH,500/1000,2000,1621,FEMALE,Masters,craft-repair,Parked Car,Rear Collision,Minor Damage,30080,Sports Car,N
+81,21,739282,2020,IN,100/300,500,610,MALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Major Damage,37285,SUV,Y
+187,39,320971,2020,OH,250/500,2000,1301,FEMALE,Associate,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,19533,SUV,N
+113,19,906481,2014,OH,100/300,500,444,FEMALE,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,34624,Truck,N
+2,27,568933,2017,OH,500/1000,500,1520,FEMALE,College,tech-support,Vehicle Theft,Front Collision,Minor Damage,48996,Sedan,N
+130,22,991793,2010,IL,500/1000,2000,1702,FEMALE,High School,craft-repair,Parked Car,Front Collision,Major Damage,48947,Sedan,Y
+220,27,902514,2016,IN,500/1000,2000,934,FEMALE,Associate,prof-specialty,Vehicle Theft,Rear Collision,Total Loss,29956,Sedan,Y
+54,50,887093,2013,OH,100/300,1000,1833,FEMALE,Associate,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,44443,SUV,N
+343,71,268484,2017,IN,500/1000,2000,860,MALE,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,35077,Sports Car,Y
+224,55,889352,2008,OH,500/1000,1000,790,FEMALE,PhD,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,5952,Truck,N
+225,30,584410,2015,IN,100/300,2000,1467,FEMALE,PhD,prof-specialty,Vehicle Theft,Rear Collision,Minor Damage,48639,Sedan,Y
+385,48,869666,2022,IN,250/500,500,426,FEMALE,College,tech-support,Parked Car,Rear Collision,Total Loss,44460,SUV,Y
+126,64,441705,2015,OH,250/500,2000,1193,MALE,PhD,prof-specialty,Parked Car,Side Collision,Major Damage,24796,Sports Car,N
+130,53,895378,2008,IL,500/1000,500,1520,FEMALE,Masters,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,33746,Truck,Y
+53,62,325314,2022,IN,100/300,500,1374,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,23249,Truck,N
+172,41,538716,2005,IL,500/1000,500,947,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Side Collision,Total Loss,2015,Sedan,N
+218,69,859900,2011,IL,100/300,1000,1020,MALE,PhD,sales,Vehicle Theft,Front Collision,Minor Damage,27957,Sedan,N
+160,73,902741,2010,OH,100/300,2000,966,FEMALE,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,18005,Sports Car,N
+198,32,679518,2019,OH,250/500,500,1103,MALE,PhD,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,23292,SUV,N
+247,46,998254,2022,OH,250/500,500,1642,FEMALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,33876,Sports Car,Y
+324,25,591872,2015,IN,100/300,1000,584,MALE,College,prof-specialty,Parked Car,Rear Collision,Total Loss,49046,Sedan,Y
+203,22,616998,2019,OH,500/1000,2000,1492,MALE,High School,sales,Single Vehicle Collision,Side Collision,Major Damage,16817,Sports Car,N
+184,46,619984,2020,OH,250/500,2000,1553,MALE,College,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,27470,SUV,N
+123,64,565757,2011,IN,500/1000,1000,1990,FEMALE,High School,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,11759,Truck,Y
+255,21,474484,2014,IN,250/500,1000,1247,MALE,College,sales,Vehicle Theft,Rear Collision,Major Damage,8412,Truck,N
+294,29,608062,2016,OH,250/500,2000,998,MALE,High School,prof-specialty,Parked Car,Rear Collision,Minor Damage,22504,Truck,Y
+280,62,683609,2018,OH,500/1000,1000,1205,MALE,High School,sales,Vehicle Theft,Side Collision,Total Loss,44964,Truck,Y
+325,19,232028,2009,OH,250/500,2000,1757,MALE,Associate,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,10507,Sedan,N
+372,44,331447,2022,OH,250/500,2000,1577,FEMALE,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,23050,Sedan,N
+98,48,960563,2009,IL,500/1000,500,1970,FEMALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,6820,SUV,N
+198,68,541124,2007,IL,250/500,500,478,FEMALE,Associate,prof-specialty,Vehicle Theft,Side Collision,Total Loss,9835,SUV,N
+395,68,912395,2009,OH,250/500,2000,978,FEMALE,PhD,prof-specialty,Multi-vehicle Collision,Rear Collision,Minor Damage,29631,SUV,N
+240,53,726045,2021,IL,250/500,2000,812,MALE,PhD,sales,Vehicle Theft,Side Collision,Total Loss,36617,SUV,Y
+144,53,532659,2016,IN,500/1000,2000,945,FEMALE,Associate,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,15587,Sports Car,N
+97,43,985691,2013,IL,100/300,2000,568,MALE,Masters,prof-specialty,Parked Car,Rear Collision,Major Damage,36721,SUV,Y
+201,60,401207,2005,IL,500/1000,2000,1080,FEMALE,High School,tech-support,Parked Car,Front Collision,Minor Damage,47499,Truck,N
+124,44,476369,2022,OH,100/300,2000,982,FEMALE,High School,sales,Parked Car,Front Collision,Major Damage,8840,Truck,Y
+187,22,478544,2008,IL,250/500,1000,914,FEMALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,39834,Truck,N
+326,37,442962,2014,IL,100/300,2000,1737,MALE,Associate,tech-support,Vehicle Theft,Side Collision,Major Damage,33440,Sports Car,Y
+349,28,366847,2011,IL,500/1000,1000,431,FEMALE,Masters,craft-repair,Parked Car,Side Collision,Total Loss,37183,SUV,Y
+259,27,820488,2005,IL,500/1000,1000,686,FEMALE,PhD,prof-specialty,Parked Car,Side Collision,Major Damage,32636,Truck,Y
+148,57,696387,2021,IN,250/500,2000,993,FEMALE,College,tech-support,Parked Car,Front Collision,Major Damage,4389,Truck,Y
+252,55,519065,2006,OH,100/300,2000,1466,MALE,PhD,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,2763,Truck,N
+346,23,787220,2015,OH,250/500,1000,1016,FEMALE,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,25925,Truck,N
+147,25,131585,2013,IN,250/500,1000,1424,FEMALE,Associate,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,28549,Sedan,N
+148,40,515231,2011,IL,500/1000,2000,1996,MALE,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,41023,SUV,N
+352,64,667873,2021,IN,100/300,2000,669,MALE,PhD,sales,Single Vehicle Collision,Rear Collision,Major Damage,41941,SUV,Y
+199,43,389102,2021,IL,100/300,1000,1603,FEMALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,25457,Sports Car,Y
+308,63,388161,2006,IN,100/300,1000,917,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,23423,Sedan,N
+128,60,486821,2010,OH,100/300,1000,1526,FEMALE,High School,craft-repair,Vehicle Theft,Rear Collision,Major Damage,12518,Sports Car,Y
+39,29,915858,2018,OH,250/500,500,1433,MALE,College,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,45020,Truck,Y
+338,43,379922,2010,OH,250/500,1000,982,MALE,Masters,sales,Parked Car,Side Collision,Major Damage,34360,Sports Car,Y
+360,30,800601,2006,IL,500/1000,500,1513,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,47215,Truck,Y
+129,57,142229,2005,IL,250/500,2000,625,FEMALE,College,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,49857,Truck,N
+267,35,186652,2014,IN,250/500,2000,1069,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,30173,SUV,Y
+151,42,349474,2009,IN,500/1000,1000,1316,FEMALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,11395,SUV,N
+298,50,803724,2006,OH,500/1000,2000,525,MALE,PhD,craft-repair,Multi-vehicle Collision,Front Collision,Major Damage,46835,SUV,Y
+99,64,360116,2020,IL,500/1000,2000,1355,MALE,PhD,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,21207,SUV,N
+263,57,971310,2006,IN,250/500,2000,1632,MALE,College,tech-support,Parked Car,Side Collision,Minor Damage,40055,SUV,N
+252,60,943488,2014,IL,250/500,2000,1520,FEMALE,High School,prof-specialty,Single Vehicle Collision,Side Collision,Minor Damage,48229,Sedan,N
+144,29,620985,2006,IL,500/1000,500,473,FEMALE,Masters,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,28639,SUV,Y
+346,61,119975,2020,OH,500/1000,500,1614,FEMALE,High School,prof-specialty,Parked Car,Rear Collision,Minor Damage,48170,Sports Car,N
+112,53,257795,2020,OH,500/1000,1000,455,FEMALE,College,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,30924,Truck,Y
+60,65,516495,2011,IL,250/500,1000,1119,MALE,College,exec-managerial,Parked Car,Rear Collision,Minor Damage,9433,SUV,N
+369,21,309373,2016,IL,250/500,1000,952,FEMALE,PhD,craft-repair,Vehicle Theft,Side Collision,Minor Damage,32104,Sedan,N
+2,22,297133,2019,IL,100/300,2000,431,MALE,Masters,prof-specialty,Vehicle Theft,Side Collision,Total Loss,46052,Sports Car,Y
+385,73,974829,2012,IL,250/500,2000,1950,FEMALE,Associate,craft-repair,Vehicle Theft,Front Collision,Minor Damage,39594,Sports Car,N
+304,54,804513,2010,OH,250/500,500,973,FEMALE,College,sales,Multi-vehicle Collision,Rear Collision,Total Loss,5664,Truck,N
+254,25,395286,2014,IN,250/500,500,1066,MALE,Masters,sales,Multi-vehicle Collision,Front Collision,Total Loss,12528,Sports Car,N
+140,59,913348,2007,OH,500/1000,1000,683,MALE,High School,sales,Parked Car,Side Collision,Total Loss,30190,Sports Car,Y
+37,66,688612,2021,IN,250/500,500,1917,FEMALE,PhD,prof-specialty,Parked Car,Rear Collision,Major Damage,2497,Sports Car,N
+160,45,276037,2011,IL,500/1000,500,586,FEMALE,High School,sales,Parked Car,Side Collision,Major Damage,9641,Sports Car,Y
+9,48,488076,2008,IN,100/300,500,897,MALE,College,exec-managerial,Parked Car,Front Collision,Total Loss,6643,Sedan,Y
+233,26,760008,2018,OH,100/300,500,1865,MALE,College,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,7056,Truck,N
+99,71,790493,2019,OH,500/1000,500,529,MALE,High School,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,34899,SUV,N
+147,68,720347,2012,IL,500/1000,1000,1038,MALE,College,craft-repair,Single Vehicle Collision,Side Collision,Major Damage,7443,Sports Car,N
+304,46,722605,2019,OH,500/1000,1000,1715,MALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,19241,Sedan,N
+208,31,825495,2018,IL,250/500,500,513,FEMALE,College,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,48211,Truck,N
+131,57,397190,2013,OH,100/300,1000,1622,FEMALE,PhD,craft-repair,Single Vehicle Collision,Rear Collision,Major Damage,10712,SUV,N
+152,58,540280,2012,OH,500/1000,2000,412,FEMALE,Masters,craft-repair,Vehicle Theft,Front Collision,Major Damage,10221,Truck,N
+54,39,201459,2021,IL,250/500,500,1694,FEMALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,33346,Sedan,Y
+120,28,861985,2006,IN,100/300,2000,1638,MALE,College,tech-support,Parked Car,Side Collision,Major Damage,17660,Sedan,Y
+161,40,300422,2007,OH,250/500,1000,843,MALE,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,40915,Sedan,Y
+116,18,932325,2012,IN,100/300,1000,1935,MALE,PhD,craft-repair,Parked Car,Rear Collision,Major Damage,13588,Sports Car,N
+75,63,201520,2016,OH,250/500,2000,846,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,39372,Sedan,N
+113,54,685560,2005,OH,100/300,1000,1385,MALE,High School,prof-specialty,Parked Car,Side Collision,Minor Damage,44220,SUV,N
+104,38,847512,2014,OH,100/300,500,1392,MALE,High School,prof-specialty,Parked Car,Side Collision,Minor Damage,19942,Sports Car,Y
+340,43,616123,2007,OH,250/500,2000,1114,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,38373,Truck,Y
+254,63,429793,2010,IN,500/1000,500,473,FEMALE,PhD,craft-repair,Vehicle Theft,Side Collision,Total Loss,48052,SUV,Y
+227,53,426818,2011,IN,100/300,2000,936,FEMALE,High School,tech-support,Single Vehicle Collision,Side Collision,Total Loss,3607,Sports Car,N
+112,71,244832,2022,OH,500/1000,1000,500,MALE,High School,sales,Parked Car,Side Collision,Minor Damage,46477,Sedan,N
+99,40,252999,2015,OH,250/500,2000,575,MALE,Associate,prof-specialty,Vehicle Theft,Side Collision,Major Damage,4016,Truck,N
+153,74,448619,2009,IN,500/1000,2000,826,FEMALE,High School,sales,Single Vehicle Collision,Front Collision,Total Loss,5574,Sedan,Y
+349,18,161367,2015,IL,500/1000,500,1540,FEMALE,College,tech-support,Vehicle Theft,Side Collision,Total Loss,48309,SUV,Y
+384,71,853315,2016,IL,500/1000,1000,1589,MALE,PhD,prof-specialty,Vehicle Theft,Rear Collision,Minor Damage,9274,SUV,N
+366,72,505804,2014,IN,500/1000,500,440,FEMALE,Masters,sales,Single Vehicle Collision,Side Collision,Total Loss,44703,Sports Car,Y
+338,68,857038,2012,OH,500/1000,1000,828,MALE,Associate,tech-support,Parked Car,Side Collision,Major Damage,17748,SUV,N
+194,57,335806,2013,OH,100/300,500,743,FEMALE,PhD,sales,Vehicle Theft,Front Collision,Minor Damage,22175,Truck,N
+310,32,807593,2008,IL,100/300,2000,1847,FEMALE,PhD,craft-repair,Parked Car,Side Collision,Minor Damage,41174,Sports Car,N
+163,38,144738,2009,IL,100/300,500,765,FEMALE,College,tech-support,Parked Car,Front Collision,Major Damage,13826,Truck,N
+208,64,657685,2012,IN,250/500,1000,1543,MALE,High School,sales,Parked Car,Rear Collision,Major Damage,19472,Sedan,N
+169,26,444333,2013,IL,500/1000,1000,1008,MALE,College,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,36129,Truck,Y
+161,70,438511,2019,IN,100/300,2000,1056,FEMALE,High School,craft-repair,Multi-vehicle Collision,Side Collision,Total Loss,6473,Truck,N
+68,26,302332,2019,IL,250/500,1000,1127,MALE,High School,tech-support,Parked Car,Rear Collision,Major Damage,25490,SUV,N
+289,27,482729,2020,IL,100/300,500,628,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,42087,Sedan,N
+398,69,963051,2018,IL,100/300,2000,1224,FEMALE,High School,prof-specialty,Multi-vehicle Collision,Front Collision,Major Damage,43435,SUV,Y
+277,74,211453,2012,OH,500/1000,1000,1553,MALE,Associate,tech-support,Vehicle Theft,Rear Collision,Minor Damage,11481,Sedan,N
+304,70,119816,2022,OH,250/500,1000,1775,MALE,Associate,craft-repair,Parked Car,Rear Collision,Minor Damage,10520,Sedan,Y
+384,43,869299,2014,OH,500/1000,500,1288,MALE,Associate,craft-repair,Parked Car,Front Collision,Total Loss,28415,Truck,N
+392,58,965962,2010,IL,500/1000,500,1741,MALE,PhD,tech-support,Parked Car,Front Collision,Major Damage,19570,SUV,N
+135,52,516715,2016,IN,100/300,2000,1383,FEMALE,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,21798,Truck,N
+195,69,471000,2006,IN,500/1000,1000,1235,MALE,Masters,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,5536,Truck,N
+128,42,313567,2011,IN,250/500,500,1760,MALE,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,3773,Truck,N
+33,43,614933,2020,IN,500/1000,2000,1696,FEMALE,Masters,tech-support,Parked Car,Side Collision,Major Damage,31894,Sedan,Y
+176,28,695923,2007,OH,500/1000,1000,516,FEMALE,College,prof-specialty,Parked Car,Rear Collision,Major Damage,45023,SUV,Y
+371,55,994235,2017,OH,500/1000,1000,1217,FEMALE,College,prof-specialty,Parked Car,Front Collision,Major Damage,37326,SUV,Y
+375,19,316184,2007,IL,100/300,2000,767,FEMALE,PhD,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,7079,Truck,N
+22,24,398090,2022,IL,250/500,2000,1517,MALE,Associate,sales,Parked Car,Rear Collision,Minor Damage,27838,Sedan,Y
+238,35,417348,2015,IN,100/300,500,567,MALE,Associate,tech-support,Vehicle Theft,Rear Collision,Major Damage,23804,SUV,N
+158,44,282958,2012,OH,100/300,1000,1353,FEMALE,College,craft-repair,Parked Car,Front Collision,Minor Damage,49109,Sports Car,Y
+38,51,377707,2010,IN,100/300,1000,1764,FEMALE,PhD,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,21675,SUV,N
+230,44,192324,2005,IL,100/300,1000,1060,MALE,PhD,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,27594,Truck,N
+365,34,323536,2005,IL,100/300,2000,1094,MALE,High School,prof-specialty,Parked Car,Side Collision,Total Loss,44749,Sports Car,Y
+51,60,857232,2012,IN,250/500,500,1324,MALE,Associate,tech-support,Vehicle Theft,Side Collision,Major Damage,38292,Sedan,Y
+264,61,371991,2009,IL,500/1000,1000,551,MALE,College,tech-support,Parked Car,Rear Collision,Major Damage,10998,Sports Car,N
+283,68,126155,2020,IN,100/300,2000,985,MALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,15697,Sports Car,Y
+27,71,441815,2015,OH,100/300,1000,1312,FEMALE,Associate,craft-repair,Parked Car,Rear Collision,Minor Damage,48374,Truck,Y
+226,41,741179,2009,IN,250/500,500,673,FEMALE,High School,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,15429,SUV,N
+277,42,969742,2008,OH,250/500,1000,1977,FEMALE,PhD,sales,Single Vehicle Collision,Rear Collision,Total Loss,9140,Sedan,N
+286,24,560494,2010,OH,500/1000,500,895,FEMALE,College,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,43553,Sports Car,Y
+97,69,249381,2018,IL,250/500,500,500,MALE,Associate,sales,Single Vehicle Collision,Rear Collision,Total Loss,16901,Truck,N
+284,23,231691,2013,IL,500/1000,1000,956,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,25279,SUV,Y
+367,70,576410,2016,IL,100/300,1000,1505,MALE,High School,prof-specialty,Single Vehicle Collision,Rear Collision,Minor Damage,30525,Sports Car,N
+317,41,543324,2015,IN,100/300,500,1952,MALE,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,22491,Truck,N
+304,50,134707,2018,IN,500/1000,2000,472,MALE,Associate,sales,Single Vehicle Collision,Front Collision,Major Damage,5280,Truck,Y
+147,66,618477,2020,IL,250/500,500,1437,MALE,Masters,craft-repair,Parked Car,Side Collision,Total Loss,36980,Truck,Y
+4,46,967969,2005,IN,500/1000,1000,1856,MALE,High School,sales,Single Vehicle Collision,Side Collision,Major Damage,49981,Sedan,Y
+35,60,821864,2017,IL,250/500,1000,556,MALE,College,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,31989,SUV,Y
+192,39,802974,2017,IN,100/300,2000,1134,MALE,High School,tech-support,Parked Car,Side Collision,Major Damage,10078,Sports Car,N
+49,43,846788,2006,OH,250/500,500,531,FEMALE,Masters,sales,Parked Car,Rear Collision,Total Loss,28118,SUV,N
+17,45,453299,2008,OH,500/1000,500,1761,MALE,PhD,prof-specialty,Multi-vehicle Collision,Front Collision,Minor Damage,25985,SUV,N
+172,67,886713,2010,IL,500/1000,500,1418,FEMALE,PhD,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,18997,Sports Car,N
+220,38,258492,2009,IN,100/300,1000,1827,FEMALE,Associate,exec-managerial,Vehicle Theft,Side Collision,Major Damage,16274,SUV,N
+158,66,574112,2007,IN,250/500,500,1799,MALE,Masters,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,2868,Sedan,N
+46,24,270102,2005,OH,250/500,2000,958,MALE,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,28398,Sports Car,Y
+373,34,494274,2008,OH,250/500,1000,506,FEMALE,High School,craft-repair,Parked Car,Rear Collision,Total Loss,18042,Sports Car,N
+6,37,317285,2006,IL,100/300,1000,664,FEMALE,PhD,craft-repair,Multi-vehicle Collision,Side Collision,Total Loss,33820,Truck,Y
+99,58,438404,2009,OH,250/500,500,1628,FEMALE,PhD,craft-repair,Single Vehicle Collision,Side Collision,Major Damage,23246,SUV,N
+380,66,259476,2007,IL,500/1000,2000,1502,FEMALE,College,craft-repair,Vehicle Theft,Front Collision,Major Damage,22561,Sports Car,N
+233,37,858842,2013,OH,250/500,1000,554,MALE,PhD,tech-support,Single Vehicle Collision,Front Collision,Major Damage,18254,Sports Car,N
+37,71,260928,2010,OH,100/300,1000,1387,MALE,College,prof-specialty,Vehicle Theft,Front Collision,Total Loss,36512,Sedan,Y
+280,39,764560,2022,IN,250/500,500,1396,MALE,High School,sales,Parked Car,Front Collision,Minor Damage,37024,Truck,N
+349,45,950610,2010,OH,250/500,500,646,FEMALE,College,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,25996,Sports Car,N
+302,57,396141,2016,OH,500/1000,2000,930,MALE,College,sales,Single Vehicle Collision,Rear Collision,Total Loss,30618,Sedan,Y
+181,66,743561,2015,IL,250/500,500,1257,FEMALE,Associate,sales,Multi-vehicle Collision,Front Collision,Minor Damage,13859,Sports Car,N
+95,24,796595,2006,OH,500/1000,2000,937,MALE,PhD,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,25580,Sports Car,Y
+99,18,348500,2019,IL,500/1000,1000,1128,FEMALE,College,tech-support,Vehicle Theft,Side Collision,Major Damage,7423,Sports Car,N
+188,49,790417,2016,OH,100/300,2000,1577,MALE,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,39857,Sedan,N
+116,30,232311,2016,OH,500/1000,2000,553,MALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,8608,SUV,Y
+191,47,859034,2013,IL,500/1000,2000,491,FEMALE,College,sales,Parked Car,Front Collision,Minor Damage,44485,Sports Car,N
+253,40,345546,2006,IN,100/300,1000,1856,FEMALE,PhD,tech-support,Vehicle Theft,Front Collision,Minor Damage,6876,Sports Car,N
+161,68,296733,2007,IL,500/1000,500,737,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,23038,SUV,N
+256,73,751233,2016,IL,100/300,1000,1903,FEMALE,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,30006,Sports Car,Y
+323,36,669560,2020,IL,250/500,500,1554,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Side Collision,Minor Damage,37775,Truck,Y
+128,49,975825,2005,IN,100/300,2000,849,MALE,Masters,sales,Single Vehicle Collision,Front Collision,Minor Damage,32810,Sports Car,N
+18,47,947644,2007,OH,500/1000,2000,1209,FEMALE,College,exec-managerial,Vehicle Theft,Side Collision,Major Damage,16325,Truck,N
+281,46,246470,2006,IL,100/300,2000,1186,MALE,College,sales,Parked Car,Front Collision,Major Damage,37892,SUV,Y
+223,66,744318,2013,IL,500/1000,2000,672,MALE,PhD,prof-specialty,Vehicle Theft,Rear Collision,Minor Damage,3753,Sedan,N
+54,62,418647,2019,IN,250/500,2000,987,MALE,College,sales,Multi-vehicle Collision,Front Collision,Total Loss,31531,SUV,Y
+58,46,106570,2022,IL,100/300,500,576,MALE,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,19996,Sports Car,N
+323,47,430929,2015,OH,250/500,500,1230,MALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,5275,Truck,N
+360,33,633398,2020,IN,500/1000,2000,1042,FEMALE,Associate,sales,Vehicle Theft,Front Collision,Major Damage,10747,Sedan,N
+174,57,599115,2021,OH,500/1000,1000,1472,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,47211,Sports Car,N
+280,36,179141,2009,OH,250/500,1000,966,MALE,College,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,2824,Sedan,N
+114,35,112115,2016,IN,100/300,2000,1065,MALE,Associate,sales,Multi-vehicle Collision,Rear Collision,Major Damage,15880,Sedan,N
+288,18,139062,2015,IL,100/300,500,1778,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Front Collision,Minor Damage,45809,Sports Car,N
+342,31,909343,2019,OH,500/1000,1000,1731,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,3081,SUV,Y
+151,68,728349,2007,OH,250/500,1000,1267,MALE,Associate,exec-managerial,Vehicle Theft,Front Collision,Major Damage,13517,Sports Car,N
+127,64,394700,2005,OH,250/500,1000,1469,FEMALE,Associate,exec-managerial,Parked Car,Side Collision,Minor Damage,23683,Sports Car,N
+155,67,490479,2020,OH,100/300,2000,701,FEMALE,Associate,exec-managerial,Vehicle Theft,Front Collision,Total Loss,18876,SUV,N
+386,19,626257,2006,IN,100/300,1000,1267,FEMALE,High School,sales,Parked Car,Front Collision,Minor Damage,39532,Truck,N
+273,71,930185,2006,IN,100/300,1000,1311,MALE,Masters,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,10266,Sports Car,Y
+104,45,497686,2007,OH,250/500,1000,807,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,13183,Sedan,N
+393,66,221863,2012,IL,100/300,1000,1612,MALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Major Damage,23066,Sports Car,N
+299,67,896657,2019,OH,100/300,500,1221,MALE,Associate,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,14877,Sports Car,N
+246,47,601076,2011,IL,500/1000,2000,1552,MALE,PhD,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,11982,Sedan,N
+176,55,747296,2010,OH,100/300,2000,960,MALE,PhD,tech-support,Vehicle Theft,Rear Collision,Total Loss,10968,SUV,N
+39,68,600726,2013,IL,100/300,500,1960,MALE,PhD,prof-specialty,Single Vehicle Collision,Side Collision,Total Loss,28598,Truck,N
+170,21,778556,2005,OH,250/500,500,1689,FEMALE,College,craft-repair,Vehicle Theft,Side Collision,Major Damage,16639,Truck,N
+247,18,730111,2012,IL,250/500,2000,1541,MALE,Associate,craft-repair,Parked Car,Front Collision,Minor Damage,6674,Sedan,Y
+26,25,900101,2007,OH,500/1000,1000,863,MALE,College,prof-specialty,Single Vehicle Collision,Front Collision,Major Damage,6316,SUV,N
+355,46,734965,2008,OH,100/300,1000,543,MALE,Masters,exec-managerial,Parked Car,Front Collision,Total Loss,11695,Sports Car,N
+306,72,871246,2019,IL,500/1000,2000,841,FEMALE,College,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,33094,Sports Car,Y
+13,56,148320,2010,IN,250/500,1000,1623,FEMALE,Masters,sales,Multi-vehicle Collision,Side Collision,Major Damage,24187,Sports Car,N
+316,20,596758,2019,IL,500/1000,500,1580,FEMALE,Masters,sales,Vehicle Theft,Rear Collision,Major Damage,43147,Sports Car,Y
+391,49,246649,2007,IN,250/500,1000,886,FEMALE,Masters,tech-support,Parked Car,Rear Collision,Major Damage,3214,Sports Car,N
+313,27,225354,2018,OH,500/1000,1000,1259,FEMALE,College,prof-specialty,Parked Car,Front Collision,Major Damage,25940,Sedan,Y
+36,27,712297,2018,IL,500/1000,1000,1557,FEMALE,Associate,prof-specialty,Single Vehicle Collision,Front Collision,Major Damage,46406,Sports Car,Y
+173,36,881725,2008,IL,100/300,2000,547,FEMALE,College,craft-repair,Parked Car,Rear Collision,Total Loss,27685,Sports Car,Y
+20,63,548625,2016,IL,500/1000,500,1759,MALE,Associate,exec-managerial,Parked Car,Rear Collision,Major Damage,45481,SUV,Y
+321,51,128625,2021,IN,100/300,1000,1494,MALE,Associate,prof-specialty,Single Vehicle Collision,Front Collision,Minor Damage,17977,Sports Car,N
+264,50,836400,2011,IN,100/300,2000,1656,FEMALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,46839,Truck,Y
+142,40,386233,2013,OH,100/300,1000,1757,MALE,College,craft-repair,Parked Car,Rear Collision,Total Loss,37904,Sedan,Y
+371,72,136487,2007,IN,100/300,500,1210,MALE,Associate,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,27538,Sedan,N
+143,45,559054,2017,IN,500/1000,1000,1065,FEMALE,PhD,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,41386,Sedan,N
+92,49,328071,2019,OH,250/500,500,489,MALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,40033,Truck,Y
+354,67,996880,2022,IL,250/500,1000,1757,MALE,PhD,tech-support,Parked Car,Rear Collision,Major Damage,9965,Sports Car,N
+322,24,588011,2005,IL,250/500,500,598,FEMALE,College,prof-specialty,Parked Car,Side Collision,Total Loss,11597,Sedan,N
+288,46,412282,2010,OH,500/1000,1000,1584,MALE,College,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,43476,Truck,Y
+215,25,273895,2006,IL,100/300,500,937,FEMALE,College,tech-support,Parked Car,Front Collision,Minor Damage,29740,SUV,N
+342,18,530424,2018,IN,250/500,1000,1544,FEMALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,8569,Sports Car,Y
+51,74,416205,2010,OH,500/1000,1000,700,MALE,High School,prof-specialty,Vehicle Theft,Rear Collision,Major Damage,39981,Truck,Y
+153,72,201376,2018,OH,100/300,2000,1123,MALE,Associate,sales,Vehicle Theft,Rear Collision,Minor Damage,13881,Sports Car,N
+186,20,525106,2008,OH,250/500,2000,1998,MALE,Associate,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,38996,SUV,Y
+63,41,965566,2012,IL,100/300,500,1362,FEMALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Total Loss,34177,Truck,Y
+190,40,933487,2007,OH,250/500,1000,1859,FEMALE,Masters,sales,Multi-vehicle Collision,Front Collision,Major Damage,39177,Sports Car,Y
+125,25,867629,2018,OH,250/500,500,467,FEMALE,Associate,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,2590,Truck,N
+150,71,381652,2021,OH,250/500,2000,858,MALE,PhD,sales,Parked Car,Rear Collision,Total Loss,28119,Sedan,N
+314,74,572132,2012,IL,100/300,500,1937,MALE,Masters,prof-specialty,Parked Car,Side Collision,Total Loss,29915,Sports Car,Y
+58,64,258056,2018,IN,500/1000,500,797,FEMALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,4708,Truck,N
+342,54,734457,2010,OH,100/300,2000,1019,MALE,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,40749,Sedan,Y
+305,20,894557,2020,IN,250/500,1000,1709,MALE,PhD,sales,Multi-vehicle Collision,Side Collision,Total Loss,46989,SUV,Y
+180,68,660347,2018,IL,100/300,500,1984,FEMALE,College,prof-specialty,Multi-vehicle Collision,Side Collision,Total Loss,24106,Sports Car,N
+170,50,562785,2007,IL,500/1000,2000,1563,FEMALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,19131,Sports Car,Y
+326,45,727697,2014,IL,100/300,1000,1129,MALE,Associate,sales,Vehicle Theft,Side Collision,Minor Damage,48553,SUV,N
+271,64,599653,2013,IL,500/1000,2000,955,FEMALE,PhD,tech-support,Vehicle Theft,Rear Collision,Major Damage,8553,Sedan,N
+54,25,629992,2017,IN,500/1000,500,1180,MALE,Masters,sales,Parked Car,Rear Collision,Minor Damage,19881,SUV,N
+101,51,828744,2011,OH,100/300,1000,1293,FEMALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,3379,Sports Car,Y
+264,52,842488,2018,IL,250/500,1000,1009,FEMALE,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,27255,Truck,Y
+53,49,735567,2013,IL,500/1000,2000,1147,FEMALE,College,exec-managerial,Parked Car,Front Collision,Minor Damage,42128,Sedan,N
+60,41,782568,2019,IN,100/300,2000,681,MALE,PhD,craft-repair,Multi-vehicle Collision,Front Collision,Minor Damage,5770,Sedan,Y
+108,31,742804,2018,IN,500/1000,2000,1060,MALE,PhD,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,21726,Sedan,N
+5,49,622828,2010,IL,250/500,1000,1323,FEMALE,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,49217,SUV,Y
+103,73,578366,2008,OH,100/300,1000,1395,FEMALE,Masters,prof-specialty,Single Vehicle Collision,Rear Collision,Total Loss,11088,SUV,N
+196,63,821384,2012,OH,100/300,500,1145,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,36314,Truck,Y
+262,60,519139,2021,IL,100/300,1000,1880,MALE,High School,craft-repair,Vehicle Theft,Side Collision,Major Damage,40976,Truck,Y
+365,33,619777,2013,IN,250/500,500,486,FEMALE,Associate,tech-support,Vehicle Theft,Rear Collision,Major Damage,18350,Sedan,N
+372,21,476188,2005,IL,500/1000,2000,1502,FEMALE,Associate,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,43643,Truck,N
+350,69,332549,2018,IL,100/300,2000,1628,FEMALE,PhD,sales,Multi-vehicle Collision,Side Collision,Total Loss,36063,SUV,Y
+47,54,653453,2015,IN,500/1000,1000,1190,FEMALE,PhD,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,17861,Truck,N
+355,71,691491,2007,IL,500/1000,2000,1760,MALE,College,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,15973,SUV,N
+311,38,584965,2013,IL,250/500,2000,1677,MALE,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,19769,Truck,N
+308,31,890546,2018,IL,100/300,1000,703,FEMALE,High School,tech-support,Vehicle Theft,Rear Collision,Total Loss,49249,Sports Car,Y
+144,48,136321,2013,IN,500/1000,500,1803,MALE,Associate,sales,Vehicle Theft,Side Collision,Total Loss,19326,SUV,N
+269,72,435441,2008,OH,100/300,1000,529,MALE,High School,craft-repair,Multi-vehicle Collision,Front Collision,Minor Damage,38048,Sports Car,N
+370,65,983084,2008,OH,100/300,500,995,MALE,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,48365,SUV,Y
+124,35,985736,2012,IN,250/500,1000,1699,FEMALE,Associate,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,4786,Truck,N
+106,24,345014,2006,OH,100/300,1000,957,MALE,College,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,37001,Sports Car,Y
+158,27,256498,2013,IL,100/300,2000,1298,MALE,Associate,tech-support,Parked Car,Rear Collision,Minor Damage,3620,Truck,Y
+147,24,117772,2018,OH,500/1000,1000,1606,MALE,Masters,craft-repair,Single Vehicle Collision,Rear Collision,Total Loss,38303,SUV,Y
+145,50,990186,2013,IL,250/500,1000,1691,FEMALE,Masters,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,21589,Sports Car,N
+120,40,890144,2020,OH,100/300,500,1745,FEMALE,Masters,prof-specialty,Vehicle Theft,Front Collision,Total Loss,4882,Sedan,N
+319,38,494583,2021,IN,500/1000,2000,1935,MALE,PhD,prof-specialty,Parked Car,Side Collision,Minor Damage,26524,Truck,N
+275,36,338389,2020,OH,250/500,500,477,MALE,College,tech-support,Single Vehicle Collision,Front Collision,Major Damage,11745,SUV,N
+92,65,739430,2016,OH,250/500,500,1183,FEMALE,College,prof-specialty,Single Vehicle Collision,Rear Collision,Minor Damage,38665,Sports Car,N
+58,36,716024,2007,OH,500/1000,2000,1762,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,17861,Truck,Y
+346,53,151924,2015,IN,500/1000,2000,1073,MALE,High School,prof-specialty,Parked Car,Rear Collision,Total Loss,28171,Sports Car,N
+229,46,628014,2018,OH,500/1000,2000,1979,MALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Major Damage,28199,Truck,N
+117,35,451296,2022,IN,500/1000,1000,1932,FEMALE,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,4837,Truck,N
+318,19,127723,2009,IL,500/1000,2000,637,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,10599,Truck,N
+279,18,858470,2020,OH,100/300,2000,1557,MALE,Associate,craft-repair,Parked Car,Side Collision,Major Damage,17911,Sports Car,N
+127,64,986926,2009,IN,100/300,2000,1615,FEMALE,Associate,tech-support,Single Vehicle Collision,Front Collision,Major Damage,22553,Sports Car,N
+393,22,764468,2007,IN,250/500,500,1779,MALE,College,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,41489,Truck,N
+396,37,308786,2016,OH,100/300,500,677,MALE,PhD,sales,Parked Car,Front Collision,Minor Damage,25813,Sedan,N
+129,28,659931,2005,IL,100/300,1000,1441,MALE,College,craft-repair,Multi-vehicle Collision,Front Collision,Major Damage,40255,Sedan,Y
+58,59,786684,2013,IN,100/300,500,923,FEMALE,Associate,tech-support,Parked Car,Rear Collision,Major Damage,49889,Sedan,Y
+122,19,990328,2013,OH,500/1000,1000,579,MALE,High School,tech-support,Parked Car,Side Collision,Major Damage,31520,SUV,Y
+1,20,314432,2008,IL,250/500,500,522,MALE,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,31541,Sedan,Y
+239,40,239999,2007,IN,250/500,2000,1669,FEMALE,Masters,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,2236,Sports Car,N
+290,72,980112,2021,IN,250/500,500,1796,FEMALE,Masters,sales,Vehicle Theft,Side Collision,Major Damage,29350,Sedan,Y
+96,29,458690,2006,IL,250/500,1000,1474,MALE,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,46397,Sports Car,Y
+126,37,179973,2005,IL,100/300,500,1494,MALE,Associate,tech-support,Vehicle Theft,Front Collision,Major Damage,13549,SUV,Y
+118,22,949881,2012,OH,100/300,2000,879,FEMALE,Masters,prof-specialty,Single Vehicle Collision,Front Collision,Major Damage,29453,Sports Car,N
+48,54,734122,2017,OH,500/1000,1000,1983,FEMALE,Masters,sales,Parked Car,Side Collision,Total Loss,37191,Sports Car,Y
+89,55,860674,2019,IN,250/500,2000,1442,FEMALE,PhD,tech-support,Vehicle Theft,Front Collision,Minor Damage,14906,Sports Car,N
+237,47,553449,2012,IL,100/300,2000,483,MALE,College,prof-specialty,Single Vehicle Collision,Side Collision,Minor Damage,16988,Sedan,N
+373,26,387681,2016,IL,100/300,1000,1578,MALE,Associate,sales,Single Vehicle Collision,Front Collision,Minor Damage,29723,Truck,N
+385,51,594509,2016,IL,500/1000,2000,964,MALE,College,prof-specialty,Parked Car,Rear Collision,Minor Damage,35800,Sports Car,N
+272,70,964008,2018,IN,500/1000,2000,1018,FEMALE,Associate,exec-managerial,Parked Car,Front Collision,Minor Damage,41107,Sedan,Y
+189,61,731810,2019,IL,500/1000,500,756,MALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,29430,Sedan,N
+192,52,646900,2019,IL,100/300,2000,1215,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Rear Collision,Minor Damage,34535,Sedan,N
+69,69,325049,2013,IN,100/300,2000,1046,MALE,College,sales,Vehicle Theft,Rear Collision,Total Loss,4940,Truck,N
+278,39,368615,2012,OH,500/1000,2000,842,FEMALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Total Loss,23793,Truck,Y
+349,61,266703,2010,OH,250/500,2000,1492,MALE,Associate,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,14262,Truck,N
+247,41,864357,2008,IN,500/1000,1000,922,MALE,College,tech-support,Vehicle Theft,Front Collision,Minor Damage,46420,Truck,N
+76,34,847419,2011,IL,500/1000,500,542,FEMALE,College,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,39710,SUV,Y
+154,27,131348,2008,IN,500/1000,2000,591,FEMALE,Masters,craft-repair,Vehicle Theft,Rear Collision,Major Damage,8961,Truck,N
+144,47,295804,2016,OH,500/1000,2000,1810,MALE,College,sales,Vehicle Theft,Side Collision,Total Loss,28499,Truck,N
+86,73,887609,2017,OH,100/300,1000,777,FEMALE,PhD,prof-specialty,Parked Car,Side Collision,Minor Damage,42498,Truck,N
+185,63,235832,2007,IN,250/500,2000,980,FEMALE,PhD,tech-support,Vehicle Theft,Side Collision,Major Damage,33283,Sports Car,Y
+285,40,394923,2016,IN,500/1000,1000,934,MALE,Masters,prof-specialty,Single Vehicle Collision,Front Collision,Total Loss,2633,Sports Car,N
+220,49,383780,2006,OH,250/500,500,1716,FEMALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,8822,Truck,N
+69,34,706177,2006,IN,250/500,500,1432,MALE,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,27968,SUV,N
+47,67,153551,2013,OH,250/500,2000,1694,MALE,PhD,sales,Multi-vehicle Collision,Side Collision,Minor Damage,41255,Sports Car,N
+94,68,504772,2005,IN,500/1000,2000,1810,FEMALE,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,49899,Sedan,Y
+238,34,766923,2012,IN,100/300,2000,492,FEMALE,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,21830,Sports Car,N
+204,31,671107,2010,IN,500/1000,1000,928,MALE,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,7738,Sedan,N
+218,26,435914,2010,OH,250/500,2000,1577,MALE,College,tech-support,Vehicle Theft,Side Collision,Minor Damage,5098,Sports Car,Y
+341,57,520182,2022,IN,250/500,2000,804,MALE,High School,craft-repair,Parked Car,Front Collision,Total Loss,31888,Truck,Y
+39,19,312781,2021,OH,100/300,500,1239,MALE,PhD,sales,Single Vehicle Collision,Rear Collision,Major Damage,10097,Sports Car,N
+100,62,553105,2016,OH,500/1000,2000,1572,MALE,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,15136,Truck,N
+289,42,782347,2010,IN,250/500,500,1288,MALE,Masters,prof-specialty,Multi-vehicle Collision,Rear Collision,Total Loss,40244,Truck,Y
+254,56,965146,2012,IN,100/300,2000,1690,FEMALE,Masters,prof-specialty,Parked Car,Rear Collision,Major Damage,10253,Sports Car,N
+222,26,813708,2014,OH,250/500,500,821,FEMALE,PhD,sales,Single Vehicle Collision,Rear Collision,Major Damage,27208,Sedan,N
+357,71,648884,2005,OH,100/300,2000,871,FEMALE,College,exec-managerial,Vehicle Theft,Front Collision,Major Damage,6887,Sedan,N
+23,39,950538,2017,IL,100/300,500,1292,MALE,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,46411,Sports Car,N
+250,60,159182,2021,OH,500/1000,1000,946,FEMALE,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,11492,Truck,N
+10,63,449307,2007,IL,250/500,500,1030,MALE,College,exec-managerial,Parked Car,Front Collision,Major Damage,37421,Sedan,Y
+246,21,401454,2012,IL,500/1000,500,1949,MALE,Masters,sales,Single Vehicle Collision,Side Collision,Total Loss,3454,SUV,N
+325,43,418232,2018,IL,250/500,500,1926,FEMALE,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,19522,Truck,N
+100,46,753091,2007,IN,500/1000,2000,1437,MALE,Masters,craft-repair,Multi-vehicle Collision,Side Collision,Total Loss,40575,Sports Car,Y
+290,62,239978,2020,IN,250/500,2000,1177,MALE,PhD,exec-managerial,Parked Car,Rear Collision,Major Damage,5192,Truck,N
+180,51,923346,2017,OH,500/1000,2000,763,MALE,Associate,exec-managerial,Vehicle Theft,Side Collision,Major Damage,47580,SUV,Y
+223,40,996782,2021,IL,100/300,1000,518,MALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,17775,SUV,N
+394,54,669667,2017,IN,250/500,1000,1661,MALE,College,prof-specialty,Parked Car,Front Collision,Minor Damage,12402,Sedan,N
+250,28,571828,2010,IN,250/500,500,945,MALE,College,exec-managerial,Parked Car,Rear Collision,Total Loss,15074,SUV,N
+147,23,870188,2021,IN,100/300,1000,1592,FEMALE,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,17245,Truck,N
+96,35,358517,2018,IN,500/1000,500,921,MALE,Associate,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,38527,Sedan,Y
+257,38,540097,2021,IN,250/500,500,1033,MALE,Masters,craft-repair,Vehicle Theft,Front Collision,Minor Damage,27936,SUV,Y
+325,59,408557,2012,IL,250/500,500,1362,MALE,Associate,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,29002,Sedan,Y
+4,53,237084,2015,IL,500/1000,1000,1357,MALE,Associate,prof-specialty,Single Vehicle Collision,Side Collision,Minor Damage,17683,Sedan,N
+16,58,805475,2005,IL,100/300,2000,1282,FEMALE,PhD,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,14460,Sports Car,N
+280,55,893583,2011,IL,500/1000,1000,1179,FEMALE,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,32482,Sedan,N
+336,51,682004,2021,OH,500/1000,500,1270,MALE,College,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,18447,Sedan,N
+247,34,980179,2014,IL,500/1000,500,915,MALE,Associate,prof-specialty,Vehicle Theft,Side Collision,Minor Damage,19729,SUV,N
+258,54,848013,2015,IN,250/500,1000,1337,MALE,College,tech-support,Parked Car,Front Collision,Total Loss,22545,Truck,N
+384,42,791738,2013,IL,100/300,500,1820,FEMALE,High School,sales,Vehicle Theft,Rear Collision,Major Damage,30204,Truck,Y
+160,55,798012,2013,OH,100/300,500,1265,FEMALE,Associate,tech-support,Vehicle Theft,Rear Collision,Total Loss,11814,SUV,N
+340,29,303502,2009,IN,500/1000,1000,505,FEMALE,College,craft-repair,Vehicle Theft,Front Collision,Major Damage,15890,Truck,N
+152,40,244539,2021,IL,250/500,1000,1508,FEMALE,High School,tech-support,Parked Car,Side Collision,Minor Damage,3740,Sedan,N
+396,70,524226,2013,IL,500/1000,1000,613,MALE,PhD,sales,Vehicle Theft,Side Collision,Minor Damage,32121,Sports Car,N
+178,59,621863,2021,IL,250/500,500,1544,FEMALE,College,exec-managerial,Vehicle Theft,Side Collision,Major Damage,13218,Sedan,N
+163,39,221999,2011,IN,250/500,500,1555,FEMALE,High School,tech-support,Parked Car,Front Collision,Major Damage,8055,Sedan,N
+380,38,214793,2013,IN,250/500,2000,1249,MALE,Masters,tech-support,Vehicle Theft,Front Collision,Major Damage,24705,Sports Car,Y
+33,44,557373,2011,OH,250/500,2000,596,MALE,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,36722,SUV,N
+179,74,470321,2017,IN,100/300,1000,418,FEMALE,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,44000,Sedan,Y
+101,48,112289,2015,IN,250/500,2000,1041,FEMALE,Associate,sales,Vehicle Theft,Rear Collision,Major Damage,8439,Sedan,Y
+268,23,800336,2018,IL,250/500,500,1435,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Total Loss,32921,SUV,Y
+323,44,798956,2015,IN,500/1000,2000,1504,FEMALE,College,prof-specialty,Vehicle Theft,Side Collision,Major Damage,35729,Sedan,Y
+65,57,855801,2017,IL,500/1000,500,729,MALE,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,25211,Sedan,N
+168,51,357368,2018,IL,100/300,1000,1265,MALE,Associate,sales,Single Vehicle Collision,Front Collision,Total Loss,32614,Truck,Y
+330,29,186365,2017,IN,500/1000,1000,1173,FEMALE,Associate,sales,Parked Car,Rear Collision,Total Loss,19601,SUV,N
+43,62,854950,2005,OH,250/500,500,791,FEMALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,29796,Sedan,N
+44,74,275211,2012,OH,500/1000,2000,1036,FEMALE,PhD,craft-repair,Parked Car,Rear Collision,Total Loss,8007,Sedan,N
+285,70,279785,2016,IN,100/300,1000,706,FEMALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,22514,Sports Car,N
+397,24,172588,2016,OH,500/1000,1000,1690,FEMALE,High School,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,19776,Sports Car,N
+12,27,163646,2012,IL,500/1000,2000,1870,MALE,College,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,4076,Sports Car,N
+95,62,365798,2012,IL,100/300,2000,1864,MALE,Associate,craft-repair,Parked Car,Rear Collision,Minor Damage,27350,Sedan,N
+302,34,582238,2017,IN,100/300,500,1294,MALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,40964,Sedan,N
+386,43,905175,2016,OH,250/500,2000,1051,FEMALE,PhD,tech-support,Vehicle Theft,Front Collision,Minor Damage,18292,Sports Car,N
+253,38,934800,2020,OH,500/1000,2000,1240,FEMALE,High School,craft-repair,Vehicle Theft,Front Collision,Minor Damage,33510,Truck,N
+242,45,845385,2005,IL,250/500,2000,1425,MALE,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,30000,Truck,N
+35,63,829532,2017,IN,500/1000,500,919,MALE,Associate,prof-specialty,Parked Car,Side Collision,Total Loss,45083,Truck,Y
+215,19,219735,2011,OH,500/1000,500,1035,FEMALE,College,sales,Vehicle Theft,Front Collision,Major Damage,32383,Truck,Y
+337,71,255683,2009,IN,250/500,1000,1732,MALE,Masters,craft-repair,Vehicle Theft,Front Collision,Major Damage,13785,SUV,N
+90,60,732259,2012,OH,500/1000,500,1139,FEMALE,Associate,craft-repair,Single Vehicle Collision,Rear Collision,Total Loss,42910,Sports Car,Y
+264,18,636437,2018,IL,500/1000,1000,1945,FEMALE,Associate,sales,Single Vehicle Collision,Rear Collision,Total Loss,41028,Sedan,Y
+93,68,462246,2017,IL,500/1000,2000,868,MALE,Masters,craft-repair,Vehicle Theft,Side Collision,Minor Damage,26855,Sports Car,N
+90,70,421333,2019,IN,100/300,1000,611,MALE,PhD,sales,Vehicle Theft,Side Collision,Minor Damage,26281,Truck,Y
+115,53,863264,2021,IL,250/500,1000,1535,MALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,6841,Sedan,N
+105,68,957463,2019,OH,100/300,2000,1431,FEMALE,College,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,33668,SUV,N
+391,43,666956,2022,IL,250/500,1000,1203,FEMALE,High School,exec-managerial,Parked Car,Rear Collision,Major Damage,28918,Sports Car,Y
+196,46,506889,2022,IN,250/500,500,876,MALE,College,prof-specialty,Parked Car,Side Collision,Major Damage,48152,Sedan,Y
+314,38,712492,2006,IN,500/1000,500,1273,FEMALE,PhD,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,19443,Sedan,Y
+114,28,311830,2008,IN,250/500,500,859,FEMALE,High School,prof-specialty,Parked Car,Rear Collision,Minor Damage,34250,Truck,N
+75,57,296501,2005,OH,100/300,500,652,FEMALE,College,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,3922,Truck,N
+376,28,516885,2008,OH,100/300,1000,1949,MALE,College,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,33976,Sports Car,Y
+217,53,265140,2022,OH,100/300,1000,1151,FEMALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,13991,SUV,N
+277,66,844149,2009,OH,250/500,2000,1861,MALE,PhD,tech-support,Single Vehicle Collision,Front Collision,Total Loss,40869,Sedan,Y
+249,56,240507,2019,OH,100/300,1000,1380,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,24733,Truck,N
+164,57,325160,2012,IL,250/500,1000,1253,FEMALE,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,4473,Sports Car,N
+394,52,283321,2021,OH,100/300,1000,635,MALE,Masters,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,10108,Truck,N
+357,71,661672,2005,OH,100/300,2000,1729,FEMALE,PhD,prof-specialty,Multi-vehicle Collision,Side Collision,Minor Damage,30715,Sports Car,N
+192,51,621998,2016,IL,250/500,500,877,MALE,Associate,exec-managerial,Parked Car,Rear Collision,Major Damage,44811,Truck,Y
+227,72,706217,2019,OH,100/300,1000,1078,MALE,Associate,craft-repair,Parked Car,Rear Collision,Total Loss,34210,SUV,Y
+177,64,700441,2013,IN,500/1000,2000,1443,FEMALE,High School,exec-managerial,Vehicle Theft,Front Collision,Total Loss,39317,Sedan,Y
+99,41,859416,2011,OH,250/500,2000,615,MALE,Associate,sales,Parked Car,Side Collision,Total Loss,35362,Truck,Y
+36,71,175388,2006,OH,250/500,2000,1254,MALE,Masters,prof-specialty,Vehicle Theft,Rear Collision,Major Damage,6889,Sedan,N
+96,39,655689,2013,IN,250/500,500,534,MALE,High School,sales,Vehicle Theft,Side Collision,Total Loss,26021,Sports Car,Y
+152,22,618727,2014,IN,500/1000,1000,1304,FEMALE,PhD,sales,Multi-vehicle Collision,Side Collision,Major Damage,10212,SUV,N
+151,73,827191,2006,IN,250/500,2000,1552,FEMALE,High School,craft-repair,Parked Car,Front Collision,Minor Damage,33971,Sedan,N
+190,50,743791,2015,IN,100/300,500,809,MALE,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,5201,Truck,Y
+224,53,332601,2017,OH,100/300,2000,1845,MALE,College,sales,Vehicle Theft,Rear Collision,Total Loss,42622,Sedan,Y
+37,64,227834,2014,IN,100/300,2000,1717,MALE,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,41531,Sedan,Y
+268,37,134084,2018,IN,250/500,2000,1669,FEMALE,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,45421,Sports Car,N
+369,36,351459,2022,IL,100/300,2000,1979,FEMALE,Associate,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,26346,SUV,N
+183,52,734929,2013,IN,250/500,2000,485,MALE,College,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,39958,SUV,N
+13,69,205111,2011,IN,100/300,500,955,FEMALE,PhD,tech-support,Single Vehicle Collision,Front Collision,Total Loss,15715,Sedan,N
+279,60,549042,2007,IL,500/1000,1000,1798,FEMALE,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,7681,Sedan,N
+217,34,529667,2010,IL,500/1000,1000,1869,FEMALE,College,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,38446,Sports Car,N
+355,62,762587,2006,OH,500/1000,1000,777,FEMALE,High School,craft-repair,Parked Car,Front Collision,Minor Damage,48870,Sedan,Y
+361,60,262982,2010,IL,500/1000,1000,1813,MALE,Associate,prof-specialty,Multi-vehicle Collision,Side Collision,Minor Damage,18720,Sports Car,N
+286,51,398185,2007,OH,250/500,500,1474,FEMALE,Masters,prof-specialty,Multi-vehicle Collision,Front Collision,Minor Damage,3667,SUV,N
+273,26,975352,2020,IL,100/300,500,641,FEMALE,College,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,30152,SUV,Y
+369,43,427825,2012,IL,500/1000,500,1717,MALE,Associate,tech-support,Parked Car,Side Collision,Major Damage,10204,Sports Car,N
+62,19,334386,2006,OH,250/500,2000,1319,MALE,Associate,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,39890,Sedan,N
+84,70,443715,2021,IL,500/1000,2000,1986,FEMALE,Associate,prof-specialty,Single Vehicle Collision,Side Collision,Major Damage,26537,SUV,Y
+368,26,296553,2013,OH,500/1000,2000,665,FEMALE,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,13217,Truck,Y
+217,26,561792,2016,IL,250/500,1000,1543,MALE,PhD,craft-repair,Vehicle Theft,Front Collision,Minor Damage,35741,Sports Car,Y
+342,57,601174,2007,IN,250/500,2000,1111,MALE,Associate,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,22654,SUV,N
+397,34,884625,2015,IL,100/300,1000,1671,MALE,Masters,craft-repair,Multi-vehicle Collision,Front Collision,Minor Damage,3408,SUV,N
+187,18,751844,2005,OH,100/300,2000,469,FEMALE,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,44903,SUV,Y
+19,42,295246,2017,IL,500/1000,1000,456,FEMALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,20672,Truck,N
+177,60,650448,2019,OH,500/1000,2000,1805,MALE,High School,craft-repair,Single Vehicle Collision,Rear Collision,Major Damage,43506,Truck,Y
+100,57,346242,2009,OH,100/300,2000,438,FEMALE,High School,prof-specialty,Single Vehicle Collision,Front Collision,Minor Damage,49117,Truck,N
+396,59,611083,2021,IN,100/300,500,1200,MALE,Masters,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,3218,Sedan,Y
+233,42,117633,2010,IN,250/500,2000,1866,FEMALE,PhD,prof-specialty,Multi-vehicle Collision,Front Collision,Minor Damage,38145,Sports Car,N
+76,56,903446,2015,OH,100/300,2000,1441,MALE,High School,sales,Parked Car,Front Collision,Minor Damage,45732,Sedan,N
+265,52,966964,2022,IL,100/300,500,1131,MALE,High School,craft-repair,Vehicle Theft,Front Collision,Total Loss,32105,Truck,Y
+284,20,149104,2008,OH,500/1000,1000,1224,FEMALE,Masters,sales,Single Vehicle Collision,Rear Collision,Minor Damage,6098,Sports Car,N
+206,67,963663,2007,OH,100/300,500,1155,FEMALE,High School,prof-specialty,Parked Car,Side Collision,Total Loss,9619,Sedan,Y
+223,54,168388,2017,IL,500/1000,500,751,FEMALE,PhD,exec-managerial,Parked Car,Rear Collision,Minor Damage,13939,Sedan,N
+384,61,640302,2013,IL,100/300,1000,1721,FEMALE,PhD,prof-specialty,Multi-vehicle Collision,Side Collision,Major Damage,20226,Sedan,N
+52,61,192578,2010,IL,250/500,2000,682,FEMALE,PhD,exec-managerial,Parked Car,Rear Collision,Major Damage,27322,Truck,N
+339,68,789115,2016,IL,100/300,1000,509,FEMALE,College,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,18878,SUV,N
+367,47,664678,2006,OH,100/300,2000,1416,MALE,PhD,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,8560,Sports Car,N
+144,55,385855,2007,OH,100/300,2000,1603,FEMALE,PhD,craft-repair,Parked Car,Front Collision,Total Loss,40278,Truck,Y
+373,51,191658,2007,IN,500/1000,1000,943,MALE,College,prof-specialty,Multi-vehicle Collision,Rear Collision,Minor Damage,38212,Sports Car,N
+69,29,157993,2016,OH,250/500,500,424,MALE,Associate,exec-managerial,Parked Car,Rear Collision,Minor Damage,31299,Truck,N
+99,36,305768,2019,IL,100/300,1000,1242,FEMALE,High School,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,9543,Sedan,N
+396,54,258285,2013,IN,500/1000,2000,1190,MALE,PhD,prof-specialty,Vehicle Theft,Front Collision,Major Damage,25946,Sedan,N
+25,61,871148,2012,IL,250/500,1000,1137,MALE,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,33740,SUV,Y
+379,66,551000,2015,OH,500/1000,1000,456,FEMALE,Masters,sales,Vehicle Theft,Side Collision,Major Damage,47197,SUV,Y
+53,34,893853,2020,IN,500/1000,2000,579,FEMALE,High School,craft-repair,Vehicle Theft,Side Collision,Total Loss,9253,Sports Car,N
+151,27,842296,2008,IL,250/500,500,631,FEMALE,College,craft-repair,Vehicle Theft,Rear Collision,Major Damage,15775,SUV,Y
+144,74,642015,2005,IN,100/300,1000,742,MALE,High School,tech-support,Parked Car,Side Collision,Minor Damage,34813,SUV,N
+57,72,998850,2011,IN,500/1000,2000,876,FEMALE,High School,tech-support,Parked Car,Rear Collision,Major Damage,29632,Sports Car,N
+39,66,628646,2006,OH,500/1000,2000,975,FEMALE,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,4057,Truck,N
+109,64,427252,2009,IL,100/300,1000,854,FEMALE,Associate,craft-repair,Parked Car,Side Collision,Total Loss,35431,SUV,Y
+181,29,357681,2011,IN,100/300,500,1655,FEMALE,Associate,sales,Vehicle Theft,Side Collision,Total Loss,39436,Truck,Y
+42,33,194018,2008,IN,250/500,1000,688,MALE,Masters,craft-repair,Parked Car,Rear Collision,Major Damage,20413,Sedan,N
+186,41,486601,2009,IL,250/500,500,1636,FEMALE,College,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,32225,SUV,Y
+398,36,394054,2005,IN,250/500,500,657,MALE,High School,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,40485,Sedan,Y
+223,25,751176,2005,IN,100/300,500,929,FEMALE,High School,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,4696,Sedan,N
+122,48,329104,2019,IN,500/1000,500,1086,MALE,High School,sales,Parked Car,Side Collision,Total Loss,47968,Truck,Y
+133,38,942186,2014,IL,500/1000,1000,1328,MALE,High School,tech-support,Vehicle Theft,Rear Collision,Total Loss,18101,Sports Car,N
+163,34,293510,2022,IL,250/500,2000,628,MALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,10831,SUV,N
+215,40,209847,2007,IL,100/300,2000,1649,FEMALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Total Loss,21047,Truck,Y
+221,54,544717,2015,IL,500/1000,2000,995,MALE,PhD,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,7004,Sports Car,N
+235,71,554162,2019,OH,250/500,2000,834,FEMALE,College,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,24705,Sedan,N
+331,33,924899,2015,IN,500/1000,2000,1281,FEMALE,High School,craft-repair,Vehicle Theft,Front Collision,Major Damage,47924,SUV,Y
+146,23,396037,2021,IL,500/1000,2000,1420,FEMALE,Masters,sales,Vehicle Theft,Front Collision,Major Damage,23509,Sedan,N
+239,25,176329,2021,IN,100/300,1000,801,FEMALE,PhD,sales,Parked Car,Side Collision,Total Loss,39170,Sedan,Y
+76,42,131007,2010,IN,100/300,500,1021,FEMALE,Masters,tech-support,Parked Car,Rear Collision,Minor Damage,45555,SUV,N
+9,35,794892,2009,OH,500/1000,2000,487,MALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Total Loss,16662,Sports Car,Y
+74,42,416397,2012,IL,250/500,1000,983,FEMALE,PhD,exec-managerial,Parked Car,Front Collision,Major Damage,40680,Sports Car,Y
+253,29,112323,2006,IL,100/300,2000,1965,MALE,Masters,craft-repair,Parked Car,Front Collision,Major Damage,2394,SUV,N
+230,32,997767,2020,IN,500/1000,2000,708,MALE,Associate,tech-support,Parked Car,Side Collision,Major Damage,49403,SUV,Y
+7,43,212356,2016,IL,100/300,500,1305,MALE,Masters,sales,Single Vehicle Collision,Front Collision,Major Damage,38365,Truck,Y
+174,58,735232,2010,IN,100/300,500,742,MALE,Masters,prof-specialty,Parked Car,Side Collision,Total Loss,12524,Truck,N
+141,62,304451,2005,IN,100/300,500,835,MALE,PhD,prof-specialty,Multi-vehicle Collision,Rear Collision,Minor Damage,35097,Sedan,N
+168,43,378600,2008,OH,500/1000,2000,576,MALE,Associate,tech-support,Vehicle Theft,Side Collision,Minor Damage,28673,SUV,N
+170,64,655655,2021,OH,250/500,2000,538,MALE,High School,exec-managerial,Parked Car,Front Collision,Major Damage,19156,Sports Car,N
+393,49,154624,2017,OH,250/500,2000,593,FEMALE,College,sales,Vehicle Theft,Rear Collision,Minor Damage,3645,Sedan,N
+283,27,503322,2022,IN,250/500,500,1609,MALE,PhD,tech-support,Parked Car,Side Collision,Major Damage,31049,Sedan,Y
+122,33,334565,2009,IL,100/300,1000,1641,FEMALE,Associate,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,11815,Sedan,N
+194,24,168008,2007,OH,500/1000,2000,1587,MALE,Masters,prof-specialty,Single Vehicle Collision,Side Collision,Minor Damage,3848,Sedan,Y
+5,34,477539,2015,IL,100/300,2000,1584,MALE,Associate,craft-repair,Multi-vehicle Collision,Front Collision,Major Damage,36329,Sports Car,Y
+29,40,216492,2017,OH,250/500,2000,1342,MALE,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,35541,Sedan,N
+165,43,172240,2008,OH,250/500,1000,924,MALE,College,sales,Parked Car,Rear Collision,Major Damage,9311,SUV,N
+339,38,426459,2018,IN,500/1000,2000,1465,FEMALE,High School,exec-managerial,Parked Car,Rear Collision,Minor Damage,23563,Truck,N
+136,39,825947,2015,OH,100/300,1000,1314,FEMALE,High School,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,17203,Sports Car,N
+365,24,372900,2014,OH,250/500,2000,609,FEMALE,College,prof-specialty,Multi-vehicle Collision,Side Collision,Minor Damage,11290,SUV,N
+321,31,561227,2022,IN,500/1000,1000,1140,MALE,PhD,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,36818,SUV,Y
+342,32,398522,2010,IL,100/300,2000,1261,MALE,PhD,craft-repair,Single Vehicle Collision,Rear Collision,Major Damage,19131,SUV,N
+145,70,235327,2019,OH,100/300,500,1698,MALE,Masters,craft-repair,Parked Car,Rear Collision,Major Damage,32143,Truck,Y
+327,24,749991,2014,IN,250/500,500,1353,FEMALE,High School,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,26509,Truck,N
+217,26,942981,2009,OH,250/500,500,1702,MALE,Masters,exec-managerial,Parked Car,Side Collision,Total Loss,24244,Truck,Y
+301,68,265575,2009,IN,100/300,500,1674,FEMALE,High School,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,38741,SUV,Y
+132,65,960226,2014,IL,100/300,2000,1733,FEMALE,College,sales,Parked Car,Rear Collision,Major Damage,28898,Truck,N
+292,25,599499,2009,IL,250/500,500,1232,MALE,PhD,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,36383,Sedan,N
+70,67,593948,2007,IN,100/300,1000,539,MALE,PhD,sales,Vehicle Theft,Side Collision,Major Damage,49318,Truck,Y
+252,40,407257,2010,IN,250/500,500,1191,FEMALE,College,prof-specialty,Parked Car,Rear Collision,Major Damage,22138,Sports Car,N
+275,46,698357,2008,IN,100/300,500,945,FEMALE,Masters,sales,Multi-vehicle Collision,Rear Collision,Major Damage,45262,SUV,Y
+364,35,329189,2022,IL,250/500,500,1416,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,7506,SUV,N
+182,48,498465,2013,OH,500/1000,2000,1953,MALE,Associate,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,22605,Sedan,N
+167,47,351051,2021,IL,250/500,500,456,MALE,High School,prof-specialty,Single Vehicle Collision,Side Collision,Total Loss,15054,Truck,Y
+91,69,749829,2017,IN,250/500,1000,511,MALE,Masters,prof-specialty,Multi-vehicle Collision,Front Collision,Major Damage,30231,Truck,Y
+202,56,813936,2019,IN,500/1000,500,404,MALE,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,15861,Sports Car,N
+346,52,611778,2021,IL,100/300,500,1833,MALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,13587,Sedan,N
+19,35,880641,2017,IN,500/1000,500,1837,MALE,PhD,sales,Single Vehicle Collision,Front Collision,Total Loss,15515,Sports Car,N
+39,59,371830,2020,IL,250/500,1000,1605,FEMALE,High School,sales,Multi-vehicle Collision,Side Collision,Total Loss,23675,Sports Car,N
+126,56,605629,2008,IN,100/300,500,1436,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Minor Damage,40622,SUV,Y
+173,34,415507,2009,OH,500/1000,1000,1762,FEMALE,High School,sales,Multi-vehicle Collision,Front Collision,Minor Damage,18600,SUV,N
+141,31,459687,2009,OH,100/300,1000,1682,MALE,PhD,craft-repair,Parked Car,Side Collision,Major Damage,29892,Truck,N
+242,48,756021,2013,IN,100/300,500,489,FEMALE,PhD,sales,Parked Car,Front Collision,Major Damage,19743,Truck,N
+220,41,275915,2021,IL,500/1000,1000,1015,MALE,PhD,craft-repair,Vehicle Theft,Side Collision,Total Loss,5774,Sports Car,N
+126,52,719961,2017,OH,100/300,2000,1290,MALE,PhD,prof-specialty,Parked Car,Side Collision,Major Damage,23801,Truck,N
+58,61,554179,2006,IL,500/1000,500,1097,FEMALE,College,exec-managerial,Parked Car,Side Collision,Major Damage,39695,Sports Car,Y
+148,62,142828,2017,IN,250/500,500,1673,MALE,Associate,craft-repair,Single Vehicle Collision,Side Collision,Total Loss,30853,Truck,Y
+317,51,935036,2007,IL,100/300,1000,1678,FEMALE,PhD,exec-managerial,Vehicle Theft,Front Collision,Total Loss,6429,Truck,N
+383,20,372670,2014,OH,250/500,1000,1297,FEMALE,PhD,exec-managerial,Vehicle Theft,Front Collision,Total Loss,6606,SUV,N
+361,54,955342,2006,IL,250/500,500,1370,MALE,Masters,craft-repair,Parked Car,Front Collision,Total Loss,6478,SUV,N
+1,60,125592,2017,IL,100/300,2000,1531,FEMALE,Associate,prof-specialty,Single Vehicle Collision,Front Collision,Minor Damage,20280,SUV,N
+387,57,391126,2021,IN,500/1000,1000,1067,FEMALE,High School,tech-support,Single Vehicle Collision,Front Collision,Total Loss,42134,SUV,Y
+348,43,886639,2018,IN,100/300,1000,993,FEMALE,Associate,exec-managerial,Vehicle Theft,Side Collision,Total Loss,6427,Sedan,N
+190,72,332041,2016,IN,250/500,2000,988,FEMALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,48244,SUV,Y
+191,40,450877,2016,OH,250/500,2000,884,MALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,7361,Sedan,N
+369,61,854296,2015,OH,500/1000,500,1381,FEMALE,PhD,prof-specialty,Parked Car,Front Collision,Major Damage,27475,SUV,Y
+312,56,224982,2011,IN,100/300,2000,1371,FEMALE,PhD,sales,Multi-vehicle Collision,Front Collision,Minor Damage,2641,Truck,N
+117,32,356911,2008,IN,250/500,500,1681,FEMALE,College,prof-specialty,Vehicle Theft,Rear Collision,Total Loss,23730,Sports Car,N
+134,73,168619,2005,OH,250/500,2000,1038,MALE,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,23113,Truck,Y
+58,66,784688,2007,OH,250/500,1000,1396,FEMALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,22011,Truck,N
+44,21,408623,2017,OH,500/1000,500,681,MALE,Associate,tech-support,Single Vehicle Collision,Side Collision,Total Loss,44853,Sedan,Y
+173,46,601643,2019,OH,250/500,500,1385,FEMALE,High School,sales,Vehicle Theft,Rear Collision,Major Damage,21659,SUV,N
+160,39,251175,2006,IN,250/500,500,1511,FEMALE,High School,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,38818,Sports Car,N
+173,42,270963,2015,OH,100/300,2000,1627,FEMALE,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,39321,Sports Car,Y
+317,30,241826,2008,IN,100/300,1000,415,MALE,Masters,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,23309,SUV,N
+303,35,855343,2021,IL,250/500,500,1574,MALE,Associate,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,20688,Sedan,N
+149,50,967869,2007,IL,250/500,500,1335,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,30176,Sedan,Y
+80,33,198540,2022,OH,100/300,500,653,MALE,College,sales,Single Vehicle Collision,Side Collision,Major Damage,5343,Sedan,N
+374,62,959414,2012,IL,500/1000,500,1611,MALE,PhD,sales,Single Vehicle Collision,Front Collision,Total Loss,4056,Sports Car,Y
+213,59,727035,2009,IL,500/1000,1000,728,MALE,High School,tech-support,Parked Car,Front Collision,Total Loss,21192,Sedan,N
+203,61,286994,2011,IL,500/1000,2000,943,FEMALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,25476,Sedan,N
+252,19,410375,2012,OH,500/1000,1000,1182,MALE,PhD,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,11416,Sports Car,N
+229,72,129301,2009,OH,500/1000,500,1396,FEMALE,College,prof-specialty,Vehicle Theft,Front Collision,Total Loss,41994,Sports Car,Y
+164,52,322724,2021,IL,500/1000,1000,1820,MALE,Masters,sales,Vehicle Theft,Side Collision,Total Loss,2886,Truck,N
+227,59,614003,2009,IN,500/1000,500,1940,MALE,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,10584,Sports Car,N
+147,51,293783,2008,IL,500/1000,2000,1882,MALE,Associate,tech-support,Vehicle Theft,Rear Collision,Minor Damage,29766,SUV,Y
+20,47,796683,2006,OH,100/300,2000,1753,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Front Collision,Minor Damage,20830,Sports Car,N
+47,72,118752,2015,OH,500/1000,2000,1244,MALE,PhD,sales,Vehicle Theft,Rear Collision,Total Loss,22289,Sports Car,N
+233,30,837565,2017,OH,500/1000,500,1592,MALE,High School,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,13530,Sedan,N
+305,30,984884,2019,IL,500/1000,1000,765,FEMALE,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,5591,Truck,N
+14,35,768755,2016,IN,250/500,2000,1601,FEMALE,College,craft-repair,Single Vehicle Collision,Side Collision,Major Damage,30342,Sedan,Y
+143,49,317029,2015,OH,100/300,500,1054,FEMALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,23395,Truck,N
+1,49,156273,2011,OH,100/300,500,1785,FEMALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,18738,Sedan,N
+373,52,358503,2009,IL,100/300,1000,1159,MALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,4631,SUV,Y
+54,56,716166,2021,IN,500/1000,2000,1038,FEMALE,High School,sales,Multi-vehicle Collision,Side Collision,Major Damage,19905,Sedan,N
+374,63,891327,2013,IL,500/1000,500,1463,MALE,High School,prof-specialty,Parked Car,Side Collision,Minor Damage,21056,Sedan,N
+259,69,219968,2018,OH,250/500,1000,1323,MALE,College,sales,Parked Car,Front Collision,Minor Damage,46138,SUV,N
+144,46,477844,2016,IN,100/300,2000,815,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,25546,SUV,N
+12,66,700847,2010,IN,500/1000,1000,1778,MALE,High School,craft-repair,Parked Car,Side Collision,Minor Damage,37447,Sports Car,N
+330,46,110699,2021,OH,100/300,1000,654,FEMALE,College,craft-repair,Parked Car,Front Collision,Major Damage,39190,Sedan,Y
+224,70,296133,2020,IN,250/500,500,1566,MALE,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,28014,SUV,N
+272,61,634003,2016,IN,250/500,500,1109,FEMALE,Masters,prof-specialty,Parked Car,Rear Collision,Total Loss,9463,SUV,N
+358,74,119169,2016,IL,250/500,500,976,FEMALE,Associate,tech-support,Vehicle Theft,Side Collision,Minor Damage,44381,Sports Car,N
+156,33,618652,2010,OH,100/300,1000,1299,FEMALE,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,3780,Truck,N
+373,73,218413,2008,OH,500/1000,500,410,FEMALE,Associate,sales,Vehicle Theft,Side Collision,Minor Damage,28107,SUV,N
+8,61,743552,2010,OH,500/1000,1000,425,FEMALE,College,sales,Vehicle Theft,Front Collision,Major Damage,33587,SUV,Y
+122,64,367926,2015,OH,250/500,1000,1356,FEMALE,High School,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,44192,Sedan,Y
+348,74,843537,2005,OH,500/1000,500,820,MALE,PhD,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,41339,Sports Car,Y
+164,27,622988,2019,IN,250/500,2000,1644,MALE,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,26968,Sedan,N
+90,47,224481,2015,IL,100/300,2000,895,MALE,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,35593,Truck,Y
+136,42,315400,2022,OH,250/500,2000,1660,FEMALE,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,45923,Sports Car,N
+186,56,659873,2021,IL,100/300,1000,636,MALE,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,25660,Sedan,N
+316,37,917114,2018,IL,250/500,1000,1408,FEMALE,Associate,prof-specialty,Vehicle Theft,Side Collision,Total Loss,4395,SUV,Y
+178,22,278936,2022,IN,500/1000,1000,618,MALE,College,sales,Vehicle Theft,Front Collision,Major Damage,38913,SUV,Y
+28,18,492136,2019,OH,500/1000,500,1910,MALE,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,33848,Sports Car,Y
+220,47,970848,2019,IN,250/500,1000,860,FEMALE,Masters,prof-specialty,Parked Car,Rear Collision,Major Damage,17779,SUV,N
+357,66,548330,2008,OH,500/1000,500,1062,MALE,PhD,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,7492,Sedan,N
+41,20,489954,2011,IN,500/1000,500,1034,MALE,Masters,exec-managerial,Parked Car,Rear Collision,Total Loss,31722,Sports Car,Y
+228,62,138067,2017,IL,500/1000,2000,1567,MALE,Associate,prof-specialty,Multi-vehicle Collision,Side Collision,Total Loss,9111,SUV,N
+192,31,798045,2007,OH,100/300,2000,1389,FEMALE,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,47855,SUV,Y
+145,73,877622,2020,IL,500/1000,2000,588,MALE,PhD,craft-repair,Vehicle Theft,Front Collision,Total Loss,11984,Truck,N
+201,47,118073,2013,IL,100/300,500,654,FEMALE,High School,exec-managerial,Parked Car,Side Collision,Major Damage,34016,Truck,Y
+212,67,136035,2012,IN,250/500,500,467,MALE,College,tech-support,Single Vehicle Collision,Front Collision,Major Damage,29640,Sports Car,N
+220,21,296049,2017,OH,500/1000,500,1015,MALE,Associate,craft-repair,Vehicle Theft,Side Collision,Minor Damage,8792,Truck,N
+240,35,333782,2021,IL,500/1000,1000,735,MALE,PhD,sales,Parked Car,Front Collision,Minor Damage,28924,Sedan,N
+397,54,714661,2021,IN,500/1000,500,1070,MALE,Associate,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,34577,SUV,N
+46,42,969794,2021,OH,250/500,2000,1220,FEMALE,Masters,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,9711,SUV,N
+35,65,714805,2005,OH,100/300,2000,1273,MALE,Associate,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,22012,SUV,N
+253,18,689738,2012,IL,100/300,500,1832,FEMALE,PhD,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,36333,Sports Car,N
+390,70,634670,2010,OH,500/1000,500,699,FEMALE,College,tech-support,Parked Car,Rear Collision,Minor Damage,38435,Sports Car,N
+82,63,826331,2007,IL,250/500,2000,756,MALE,College,sales,Vehicle Theft,Front Collision,Total Loss,41227,Truck,Y
+371,32,557828,2009,OH,250/500,500,655,MALE,Associate,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,6096,SUV,Y
+256,26,845715,2017,IN,250/500,2000,1407,FEMALE,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,3019,SUV,N
+197,32,161929,2019,IL,250/500,1000,752,FEMALE,Associate,tech-support,Parked Car,Rear Collision,Total Loss,26312,SUV,Y
+303,66,857771,2018,IL,250/500,2000,1944,MALE,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,11476,SUV,N
+10,74,852878,2020,OH,100/300,1000,923,MALE,College,craft-repair,Parked Car,Side Collision,Total Loss,10254,SUV,N
+312,41,985296,2022,OH,100/300,500,1349,MALE,College,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,34419,Sedan,N
+286,21,767689,2015,IL,100/300,500,1155,MALE,College,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,13584,SUV,N
+242,29,880965,2007,OH,500/1000,1000,683,MALE,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,7965,Sedan,N
+251,54,387313,2014,IN,250/500,500,1735,FEMALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,13464,SUV,N
+365,54,187468,2014,OH,500/1000,1000,498,MALE,PhD,sales,Vehicle Theft,Front Collision,Total Loss,14439,Sports Car,N
+5,60,134594,2020,IN,250/500,500,596,MALE,Associate,prof-specialty,Parked Car,Front Collision,Total Loss,39489,Sports Car,Y
+119,23,291703,2016,IN,100/300,2000,881,FEMALE,Associate,sales,Single Vehicle Collision,Side Collision,Total Loss,43176,Sedan,Y
+289,56,145033,2006,IN,500/1000,500,1277,MALE,Masters,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,34963,SUV,Y
+374,73,687421,2013,IN,100/300,2000,1649,MALE,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,30440,Sports Car,N
+65,63,173861,2007,IN,250/500,2000,1014,FEMALE,High School,exec-managerial,Parked Car,Rear Collision,Major Damage,5273,Sports Car,N
+146,41,807650,2019,OH,250/500,1000,1017,MALE,Masters,prof-specialty,Parked Car,Rear Collision,Major Damage,17330,SUV,N
+224,28,393894,2007,IN,250/500,500,1788,FEMALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,23494,SUV,N
+239,30,664749,2022,OH,100/300,1000,767,MALE,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,12886,Sports Car,N
+177,51,567016,2012,IN,250/500,500,969,MALE,Associate,sales,Parked Car,Rear Collision,Minor Damage,5212,SUV,N
+267,42,178222,2021,IL,100/300,2000,989,MALE,College,craft-repair,Vehicle Theft,Side Collision,Minor Damage,37523,Truck,N
+341,24,736308,2012,IN,500/1000,2000,1498,FEMALE,Associate,sales,Vehicle Theft,Rear Collision,Major Damage,19905,SUV,N
+282,69,910658,2011,IL,250/500,500,1465,FEMALE,Masters,craft-repair,Multi-vehicle Collision,Side Collision,Minor Damage,24058,Sports Car,N
+63,21,893153,2011,IN,250/500,500,821,FEMALE,College,sales,Single Vehicle Collision,Side Collision,Total Loss,3080,Sports Car,N
+217,25,644897,2007,IN,250/500,1000,1235,FEMALE,PhD,tech-support,Vehicle Theft,Side Collision,Major Damage,34675,Sedan,Y
+342,37,754801,2005,IN,500/1000,500,1604,MALE,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,24007,Truck,Y
+315,46,303981,2008,IL,250/500,500,944,FEMALE,Associate,craft-repair,Vehicle Theft,Side Collision,Major Damage,19105,Sports Car,N
+283,71,204211,2009,IL,100/300,500,470,FEMALE,Associate,prof-specialty,Parked Car,Front Collision,Total Loss,32279,Truck,Y
+177,70,286321,2005,IN,100/300,1000,1991,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Front Collision,Minor Damage,48815,SUV,N
+98,68,542111,2019,OH,250/500,500,1528,MALE,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,19946,Sports Car,N
+105,62,587689,2009,IN,250/500,2000,1623,MALE,Masters,sales,Single Vehicle Collision,Front Collision,Minor Damage,2639,Sedan,N
+99,63,960952,2017,IL,500/1000,1000,1524,FEMALE,College,sales,Parked Car,Front Collision,Total Loss,14502,Sports Car,N
+385,27,556956,2012,IN,500/1000,1000,1167,FEMALE,Associate,tech-support,Vehicle Theft,Front Collision,Major Damage,39958,Sedan,Y
+311,60,950741,2012,IL,500/1000,2000,706,MALE,Associate,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,30363,Truck,Y
+6,51,129984,2009,IL,250/500,2000,776,FEMALE,High School,prof-specialty,Vehicle Theft,Rear Collision,Major Damage,5736,Sedan,N
+197,74,743235,2013,IL,500/1000,2000,1054,FEMALE,College,sales,Parked Car,Front Collision,Minor Damage,18473,SUV,N
+351,43,829182,2005,IN,500/1000,500,1077,FEMALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,36019,SUV,Y
+133,58,105901,2008,IL,100/300,2000,798,FEMALE,PhD,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,44062,SUV,Y
+358,66,262624,2007,IL,500/1000,500,620,MALE,High School,craft-repair,Vehicle Theft,Front Collision,Total Loss,23087,Sports Car,N
+259,20,322317,2006,IN,100/300,1000,581,MALE,Masters,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,30489,SUV,Y
+23,73,393199,2012,IL,100/300,1000,706,MALE,PhD,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,38820,SUV,Y
+53,23,793045,2013,IN,500/1000,2000,921,FEMALE,Associate,exec-managerial,Vehicle Theft,Front Collision,Total Loss,21325,Sports Car,N
+165,22,245788,2006,IL,100/300,500,1819,FEMALE,Associate,craft-repair,Vehicle Theft,Rear Collision,Major Damage,2271,Truck,Y
+202,22,738387,2018,OH,250/500,2000,1413,MALE,College,craft-repair,Parked Car,Front Collision,Major Damage,20414,SUV,Y
+83,71,635426,2018,OH,250/500,2000,403,MALE,PhD,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,26220,SUV,N
+145,64,790658,2008,IL,500/1000,500,1262,MALE,Associate,craft-repair,Single Vehicle Collision,Side Collision,Major Damage,46466,Sports Car,Y
+85,40,123429,2010,OH,250/500,2000,1247,FEMALE,Associate,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,44425,Truck,N
+78,66,674488,2015,IN,100/300,1000,1203,MALE,College,prof-specialty,Vehicle Theft,Side Collision,Major Damage,11387,Truck,N
+366,26,302380,2007,OH,250/500,2000,1704,FEMALE,Masters,exec-managerial,Vehicle Theft,Front Collision,Major Damage,13279,Truck,N
+1,52,541460,2012,IL,500/1000,500,614,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Minor Damage,29584,Sports Car,N
+51,37,872577,2007,IL,500/1000,500,1371,MALE,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,46783,Sedan,Y
+173,66,345127,2018,IN,100/300,1000,1843,MALE,High School,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,41809,Sedan,Y
+205,59,987700,2017,IL,500/1000,500,500,FEMALE,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,43476,SUV,Y
+260,52,860801,2017,IN,250/500,500,1362,MALE,PhD,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,12857,SUV,N
+369,67,117347,2006,OH,500/1000,1000,1944,MALE,College,craft-repair,Parked Car,Front Collision,Minor Damage,44261,SUV,Y
+288,35,772280,2017,OH,100/300,2000,972,FEMALE,High School,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,10052,Sedan,N
+34,34,656110,2010,IN,500/1000,1000,1732,FEMALE,High School,sales,Vehicle Theft,Front Collision,Minor Damage,18995,Sports Car,N
+348,41,664396,2020,IN,250/500,2000,1057,FEMALE,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,15580,SUV,N
+95,20,582315,2006,IL,100/300,1000,1338,FEMALE,PhD,tech-support,Parked Car,Front Collision,Major Damage,20240,Sports Car,N
+72,49,107967,2012,OH,250/500,2000,1933,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Rear Collision,Total Loss,19910,SUV,N
+39,52,997151,2021,IN,100/300,1000,1486,MALE,Masters,tech-support,Parked Car,Side Collision,Minor Damage,12216,Sports Car,N
+154,55,636159,2006,OH,500/1000,2000,625,FEMALE,High School,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,40997,Sports Car,Y
+250,30,325371,2014,IN,100/300,1000,504,FEMALE,College,tech-support,Parked Car,Front Collision,Major Damage,48111,Sedan,Y
+162,73,308524,2020,OH,100/300,2000,1171,FEMALE,High School,tech-support,Parked Car,Rear Collision,Major Damage,26911,Sports Car,Y
+118,64,829630,2010,IL,500/1000,1000,1848,MALE,PhD,tech-support,Parked Car,Side Collision,Minor Damage,36866,Truck,Y
+259,42,264685,2006,OH,250/500,500,1678,FEMALE,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,17438,Sedan,N
+379,26,652467,2006,OH,500/1000,2000,828,FEMALE,College,prof-specialty,Vehicle Theft,Side Collision,Total Loss,9865,SUV,Y
+306,21,351537,2017,OH,100/300,1000,833,FEMALE,Associate,tech-support,Parked Car,Rear Collision,Minor Damage,18557,Sedan,N
+268,31,807548,2019,OH,500/1000,2000,1630,MALE,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,14211,Truck,N
+54,54,941531,2006,OH,100/300,2000,1451,FEMALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,35268,Truck,Y
+236,51,659550,2011,IL,500/1000,1000,1081,FEMALE,Associate,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,5646,Sports Car,Y
+389,28,964645,2007,IN,500/1000,2000,1759,FEMALE,Masters,craft-repair,Vehicle Theft,Front Collision,Minor Damage,44816,Truck,N
+222,58,479551,2012,OH,250/500,1000,987,MALE,Masters,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,25924,Truck,Y
+251,73,571082,2018,IL,100/300,500,1492,MALE,Masters,sales,Single Vehicle Collision,Side Collision,Minor Damage,46112,Truck,Y
+313,20,972701,2011,OH,250/500,2000,1265,MALE,High School,tech-support,Vehicle Theft,Rear Collision,Major Damage,11910,Truck,Y
+112,45,160545,2011,OH,100/300,500,1145,MALE,PhD,sales,Single Vehicle Collision,Rear Collision,Minor Damage,3778,SUV,N
+255,46,334555,2005,IN,500/1000,2000,1936,FEMALE,Associate,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,47752,SUV,Y
+303,26,323894,2021,OH,100/300,2000,1590,FEMALE,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,21441,Sedan,N
+207,20,827506,2013,IL,250/500,2000,1263,MALE,PhD,prof-specialty,Parked Car,Rear Collision,Major Damage,7190,Sports Car,Y
+229,42,402066,2017,IL,250/500,1000,767,MALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Total Loss,17304,SUV,Y
+341,51,667201,2021,IN,250/500,500,650,FEMALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Major Damage,41765,Truck,Y
+398,29,459177,2014,OH,100/300,2000,1258,FEMALE,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,29289,Sports Car,N
+66,59,466936,2014,IL,250/500,1000,1255,MALE,Associate,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,46788,SUV,Y
+75,26,350497,2008,OH,250/500,2000,1593,MALE,PhD,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,6747,Sedan,N
+103,32,543057,2012,OH,250/500,1000,1513,MALE,PhD,exec-managerial,Vehicle Theft,Side Collision,Major Damage,11286,Truck,N
+192,57,801692,2022,OH,500/1000,2000,960,MALE,College,prof-specialty,Multi-vehicle Collision,Side Collision,Minor Damage,2045,Sports Car,N
+252,42,585278,2018,IN,500/1000,500,1869,FEMALE,High School,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,31742,SUV,Y
+226,22,256104,2022,OH,100/300,500,693,MALE,Associate,tech-support,Vehicle Theft,Rear Collision,Total Loss,9758,Sports Car,N
+294,28,793206,2018,IL,100/300,2000,1318,MALE,College,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,25437,SUV,N
+306,51,814834,2019,OH,250/500,1000,1573,FEMALE,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,21585,Sedan,N
+98,41,144936,2008,IL,500/1000,2000,1555,FEMALE,Associate,exec-managerial,Parked Car,Side Collision,Minor Damage,35223,Truck,N
+338,32,785154,2017,OH,250/500,1000,832,FEMALE,PhD,craft-repair,Vehicle Theft,Front Collision,Total Loss,11854,Sedan,N
+286,55,816948,2012,IL,250/500,2000,458,FEMALE,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,19349,Truck,Y
+335,25,302056,2022,IL,500/1000,1000,1368,FEMALE,PhD,sales,Parked Car,Side Collision,Minor Damage,32692,Truck,N
+347,22,325469,2016,OH,500/1000,500,1235,MALE,PhD,tech-support,Parked Car,Rear Collision,Major Damage,23348,Sports Car,N
+308,65,128141,2018,OH,500/1000,2000,598,MALE,PhD,craft-repair,Vehicle Theft,Rear Collision,Total Loss,36296,SUV,Y
+249,43,237478,2006,IL,100/300,500,614,MALE,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,37744,Sedan,Y
+166,35,197359,2022,IN,100/300,500,1297,FEMALE,PhD,tech-support,Parked Car,Rear Collision,Minor Damage,21455,Sedan,N
+335,23,254363,2006,OH,250/500,2000,1984,MALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Total Loss,15288,Sedan,Y
+30,54,665856,2015,IN,100/300,2000,871,FEMALE,Masters,prof-specialty,Vehicle Theft,Front Collision,Minor Damage,8387,Sports Car,N
+247,65,721827,2013,OH,500/1000,1000,646,MALE,Associate,craft-repair,Single Vehicle Collision,Front Collision,Major Damage,37289,Sports Car,Y
+106,30,671139,2016,OH,500/1000,1000,781,MALE,PhD,tech-support,Parked Car,Front Collision,Total Loss,41293,Sports Car,Y
+51,45,593158,2021,OH,100/300,500,1390,FEMALE,PhD,sales,Single Vehicle Collision,Front Collision,Total Loss,35894,Truck,Y
+81,22,679111,2019,OH,250/500,1000,1662,FEMALE,College,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,25016,Sedan,Y
+133,30,123312,2021,IN,250/500,1000,1326,MALE,High School,prof-specialty,Multi-vehicle Collision,Side Collision,Total Loss,48116,Truck,Y
+285,34,527387,2022,OH,100/300,2000,1790,MALE,Associate,craft-repair,Single Vehicle Collision,Side Collision,Minor Damage,42484,Sedan,N
+388,67,534995,2010,IL,250/500,1000,1591,MALE,PhD,tech-support,Vehicle Theft,Rear Collision,Minor Damage,32215,Sedan,Y
+138,57,824188,2021,IL,250/500,500,959,MALE,College,tech-support,Vehicle Theft,Front Collision,Total Loss,18102,SUV,N
+184,62,600531,2022,IN,250/500,1000,1474,MALE,High School,exec-managerial,Parked Car,Front Collision,Minor Damage,5404,Sedan,N
+330,49,985155,2012,OH,500/1000,500,1088,FEMALE,Associate,tech-support,Parked Car,Side Collision,Major Damage,39260,Sports Car,Y
+273,46,898843,2013,IL,500/1000,2000,779,FEMALE,Associate,tech-support,Vehicle Theft,Rear Collision,Major Damage,37111,Sports Car,Y
+340,68,596037,2010,IN,100/300,500,873,FEMALE,PhD,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,2106,Sports Car,N
+69,20,349062,2009,OH,500/1000,1000,1503,FEMALE,Associate,prof-specialty,Single Vehicle Collision,Rear Collision,Major Damage,17195,SUV,N
+34,73,943441,2016,IL,250/500,2000,1096,MALE,College,sales,Multi-vehicle Collision,Side Collision,Minor Damage,48009,SUV,N
+262,57,508638,2015,IL,500/1000,1000,1790,MALE,Associate,sales,Multi-vehicle Collision,Rear Collision,Major Damage,29153,Truck,N
+53,51,535684,2005,IN,100/300,2000,1884,FEMALE,Masters,craft-repair,Parked Car,Rear Collision,Total Loss,31605,Sedan,Y
+205,57,656659,2015,OH,500/1000,2000,1310,MALE,College,prof-specialty,Vehicle Theft,Rear Collision,Minor Damage,47343,Sedan,Y
+126,44,157022,2013,OH,250/500,1000,1962,FEMALE,High School,craft-repair,Single Vehicle Collision,Front Collision,Minor Damage,39569,Sports Car,Y
+235,30,433373,2006,IL,250/500,1000,1875,MALE,High School,sales,Parked Car,Side Collision,Minor Damage,7580,Sports Car,N
+43,62,199071,2016,IL,100/300,2000,1887,MALE,PhD,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,7400,Sports Car,N
+240,50,282268,2008,IL,500/1000,2000,1359,MALE,PhD,tech-support,Vehicle Theft,Front Collision,Minor Damage,41643,Sports Car,Y
+371,23,458918,2008,OH,500/1000,1000,877,FEMALE,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,32649,Sports Car,N
+111,41,589626,2022,IN,500/1000,500,1403,FEMALE,High School,prof-specialty,Vehicle Theft,Front Collision,Total Loss,32496,Sports Car,Y
+249,36,388859,2019,IN,250/500,1000,1325,FEMALE,High School,sales,Multi-vehicle Collision,Rear Collision,Total Loss,22637,Sedan,N
+151,33,914037,2017,OH,100/300,2000,1843,FEMALE,High School,prof-specialty,Vehicle Theft,Rear Collision,Major Damage,43424,SUV,Y
+183,57,724141,2021,IN,500/1000,1000,1106,MALE,High School,prof-specialty,Parked Car,Rear Collision,Minor Damage,41015,Sports Car,Y
+336,45,655462,2010,IL,250/500,500,1637,MALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,8177,Sedan,N
+95,50,597660,2020,IN,250/500,1000,1792,MALE,College,craft-repair,Single Vehicle Collision,Side Collision,Major Damage,9269,Sports Car,N
+374,65,176373,2016,IN,250/500,2000,1253,MALE,College,exec-managerial,Parked Car,Front Collision,Total Loss,16974,Truck,N
+8,58,955684,2009,IN,500/1000,1000,1537,FEMALE,Masters,sales,Parked Car,Front Collision,Major Damage,16037,Truck,N
+388,30,293021,2021,IL,500/1000,2000,1416,MALE,Associate,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,20756,Sedan,N
+360,60,293718,2005,OH,500/1000,2000,1153,MALE,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,18167,SUV,N
+388,62,694305,2014,IL,500/1000,1000,902,MALE,High School,sales,Parked Car,Front Collision,Minor Damage,25218,Truck,N
+184,42,163037,2019,OH,500/1000,2000,1216,FEMALE,PhD,exec-managerial,Parked Car,Side Collision,Major Damage,27167,Truck,N
+281,70,714106,2015,OH,500/1000,2000,987,FEMALE,PhD,exec-managerial,Parked Car,Front Collision,Total Loss,45148,SUV,Y
+195,59,630836,2017,OH,500/1000,500,1734,FEMALE,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,8617,Truck,N
+352,53,741269,2009,IN,500/1000,500,1892,MALE,High School,prof-specialty,Multi-vehicle Collision,Rear Collision,Total Loss,23534,Sports Car,N
+195,44,334213,2005,IN,500/1000,500,1107,FEMALE,Masters,sales,Multi-vehicle Collision,Side Collision,Major Damage,27459,SUV,N
+155,55,304366,2016,OH,250/500,500,1467,MALE,Associate,sales,Parked Car,Front Collision,Major Damage,22542,Truck,N
+93,24,602420,2015,OH,500/1000,2000,1838,MALE,College,tech-support,Vehicle Theft,Side Collision,Total Loss,2303,SUV,N
+160,22,254249,2021,IN,100/300,1000,1669,MALE,High School,prof-specialty,Single Vehicle Collision,Side Collision,Minor Damage,31756,Sports Car,N
+61,60,386166,2008,IL,250/500,2000,1507,FEMALE,Associate,sales,Vehicle Theft,Rear Collision,Minor Damage,14683,Truck,N
+122,62,730585,2019,OH,500/1000,2000,606,FEMALE,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,34695,Sedan,Y
+51,74,760902,2013,IL,100/300,2000,550,MALE,PhD,sales,Parked Car,Rear Collision,Major Damage,13025,Truck,N
+277,68,322084,2016,IN,500/1000,1000,1067,MALE,Masters,prof-specialty,Parked Car,Front Collision,Total Loss,22890,Truck,N
+5,48,589536,2009,OH,100/300,500,927,FEMALE,PhD,tech-support,Vehicle Theft,Rear Collision,Major Damage,20715,Sports Car,N
+92,40,160428,2014,IL,100/300,2000,564,FEMALE,College,sales,Vehicle Theft,Rear Collision,Major Damage,6561,Sedan,N
+170,59,778100,2021,IL,100/300,2000,1316,FEMALE,PhD,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,34847,Sedan,Y
+317,27,421497,2009,IL,100/300,500,1568,MALE,High School,prof-specialty,Parked Car,Front Collision,Total Loss,38531,Sedan,Y
+22,49,737420,2020,IN,250/500,2000,1409,MALE,PhD,craft-repair,Vehicle Theft,Rear Collision,Major Damage,29407,Sports Car,N
+326,60,287604,2011,IN,250/500,1000,436,MALE,High School,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,23580,Sports Car,N
+1,70,640340,2013,IL,100/300,2000,732,FEMALE,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,12169,Sports Car,N
+133,47,200689,2007,IL,500/1000,2000,802,FEMALE,PhD,sales,Vehicle Theft,Front Collision,Minor Damage,19116,Sports Car,N
+233,56,802436,2019,IN,100/300,500,813,FEMALE,Masters,craft-repair,Multi-vehicle Collision,Rear Collision,Minor Damage,38744,Sports Car,N
+12,48,546636,2020,IL,250/500,2000,444,MALE,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,24043,Sedan,N
+346,35,756031,2022,IL,500/1000,2000,1825,MALE,Masters,prof-specialty,Multi-vehicle Collision,Rear Collision,Total Loss,4124,SUV,Y
+46,53,362307,2018,IN,250/500,1000,605,FEMALE,PhD,craft-repair,Parked Car,Side Collision,Total Loss,41420,Sports Car,Y
+34,19,403568,2007,IL,250/500,500,461,MALE,PhD,craft-repair,Parked Car,Front Collision,Total Loss,40051,SUV,Y
+78,31,602754,2016,IL,500/1000,500,819,FEMALE,PhD,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,9176,Truck,N
+218,30,563547,2013,IL,100/300,1000,1267,MALE,High School,tech-support,Parked Car,Side Collision,Total Loss,27774,Truck,Y
+301,46,503850,2011,IN,100/300,2000,1891,FEMALE,College,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,20676,Sports Car,Y
+73,29,235870,2013,IL,100/300,500,1219,MALE,Masters,exec-managerial,Parked Car,Side Collision,Major Damage,47177,Truck,Y
+282,56,384564,2017,IN,100/300,500,418,MALE,High School,sales,Multi-vehicle Collision,Rear Collision,Major Damage,26760,SUV,N
+249,19,610259,2022,IN,500/1000,2000,764,FEMALE,Masters,prof-specialty,Multi-vehicle Collision,Rear Collision,Minor Damage,47087,Truck,N
+47,49,744863,2009,OH,500/1000,2000,1723,FEMALE,High School,craft-repair,Multi-vehicle Collision,Side Collision,Major Damage,2997,Truck,N
+121,30,882518,2017,OH,500/1000,500,1430,FEMALE,PhD,tech-support,Vehicle Theft,Side Collision,Major Damage,45769,SUV,Y
+214,63,391444,2008,IL,250/500,2000,827,FEMALE,Masters,prof-specialty,Multi-vehicle Collision,Front Collision,Total Loss,39432,Truck,Y
+239,44,976313,2006,IN,500/1000,500,1540,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Front Collision,Minor Damage,15117,Sports Car,N
+56,66,110749,2020,OH,100/300,2000,979,MALE,Masters,tech-support,Parked Car,Side Collision,Minor Damage,13231,SUV,N
+350,58,728419,2013,IL,250/500,2000,1930,FEMALE,Associate,prof-specialty,Parked Car,Front Collision,Major Damage,31751,SUV,Y
+107,34,780481,2013,OH,100/300,1000,945,FEMALE,High School,sales,Vehicle Theft,Side Collision,Total Loss,9440,Sedan,N
+319,57,399631,2010,OH,100/300,2000,724,FEMALE,Associate,prof-specialty,Vehicle Theft,Front Collision,Total Loss,21911,Sedan,N
+48,48,325019,2015,IN,500/1000,1000,454,MALE,High School,sales,Single Vehicle Collision,Rear Collision,Total Loss,45986,SUV,Y
+61,51,526577,2005,IN,500/1000,2000,1177,FEMALE,College,craft-repair,Multi-vehicle Collision,Front Collision,Total Loss,17608,SUV,N
+337,41,907655,2008,OH,100/300,500,1391,FEMALE,Masters,craft-repair,Vehicle Theft,Rear Collision,Major Damage,31665,Sedan,Y
+26,62,697218,2017,OH,100/300,500,441,FEMALE,College,exec-managerial,Parked Car,Rear Collision,Total Loss,29157,Sports Car,Y
+292,52,769416,2017,IN,250/500,2000,1720,MALE,College,sales,Vehicle Theft,Front Collision,Minor Damage,30779,Truck,N
+257,65,390524,2017,IL,500/1000,2000,630,MALE,High School,craft-repair,Vehicle Theft,Side Collision,Minor Damage,31968,Truck,N
+8,23,912467,2006,IN,250/500,500,852,FEMALE,Associate,prof-specialty,Multi-vehicle Collision,Rear Collision,Major Damage,29387,Truck,N
+113,36,917052,2013,OH,250/500,2000,793,MALE,PhD,tech-support,Vehicle Theft,Rear Collision,Total Loss,6090,SUV,Y
+355,47,356553,2012,IL,250/500,1000,1945,FEMALE,High School,tech-support,Single Vehicle Collision,Front Collision,Total Loss,26945,Sports Car,N
+253,24,548532,2011,OH,100/300,1000,1781,MALE,PhD,sales,Parked Car,Side Collision,Total Loss,42239,Sedan,Y
+180,27,819401,2008,IL,250/500,1000,1867,FEMALE,College,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,5743,Sports Car,Y
+207,58,479504,2022,OH,250/500,1000,1551,MALE,PhD,prof-specialty,Parked Car,Front Collision,Major Damage,32924,Sports Car,Y
+303,49,153352,2007,IL,100/300,1000,1090,FEMALE,Associate,sales,Single Vehicle Collision,Side Collision,Total Loss,12196,Truck,N
+127,51,524127,2010,IL,500/1000,2000,1828,FEMALE,High School,tech-support,Single Vehicle Collision,Front Collision,Major Damage,28279,Sedan,N
+56,45,263856,2016,OH,500/1000,2000,791,MALE,Associate,sales,Vehicle Theft,Front Collision,Total Loss,41776,Sports Car,Y
+214,32,103191,2016,IL,250/500,1000,1616,FEMALE,Associate,prof-specialty,Vehicle Theft,Front Collision,Total Loss,5324,Sedan,N
+14,47,976968,2012,IN,100/300,2000,1003,FEMALE,High School,craft-repair,Vehicle Theft,Rear Collision,Minor Damage,43400,SUV,N
+28,54,728864,2005,OH,500/1000,2000,1280,FEMALE,Associate,prof-specialty,Parked Car,Rear Collision,Major Damage,21641,Truck,N
+78,46,295713,2008,IN,250/500,1000,1501,FEMALE,Masters,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,29482,Sedan,N
+216,39,542939,2015,OH,250/500,2000,484,MALE,Masters,craft-repair,Multi-vehicle Collision,Front Collision,Major Damage,34994,SUV,Y
+386,21,103631,2007,IL,100/300,2000,1453,FEMALE,Masters,craft-repair,Vehicle Theft,Rear Collision,Total Loss,16863,SUV,N
+365,37,237244,2017,IL,250/500,2000,448,MALE,PhD,sales,Parked Car,Rear Collision,Total Loss,39486,SUV,Y
+154,49,404224,2021,IL,500/1000,1000,1568,MALE,Associate,tech-support,Vehicle Theft,Rear Collision,Major Damage,40440,Sports Car,Y
+14,53,320169,2014,OH,100/300,2000,468,MALE,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,26111,Sports Car,Y
+187,67,714641,2016,IN,500/1000,500,1481,MALE,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,5199,Truck,N
+312,21,513497,2019,IN,500/1000,500,1096,FEMALE,PhD,prof-specialty,Single Vehicle Collision,Front Collision,Major Damage,40038,Truck,Y
+371,44,652959,2014,OH,500/1000,1000,1997,FEMALE,High School,exec-managerial,Parked Car,Rear Collision,Total Loss,47518,SUV,Y
+7,34,747099,2018,OH,250/500,500,878,MALE,Masters,prof-specialty,Vehicle Theft,Side Collision,Minor Damage,9897,Truck,Y
+3,29,806791,2017,IN,250/500,1000,1219,FEMALE,Associate,sales,Single Vehicle Collision,Rear Collision,Major Damage,43432,Sports Car,Y
+111,39,321972,2009,IN,500/1000,500,1868,MALE,High School,sales,Parked Car,Rear Collision,Minor Damage,16892,Truck,N
+238,34,877499,2010,IN,500/1000,500,1719,FEMALE,High School,tech-support,Vehicle Theft,Front Collision,Minor Damage,10271,Sedan,N
+363,27,489878,2006,IN,100/300,500,1594,FEMALE,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,39926,Sports Car,Y
+239,71,848321,2021,OH,100/300,1000,1998,FEMALE,College,craft-repair,Single Vehicle Collision,Rear Collision,Minor Damage,26815,SUV,N
+274,18,608679,2008,OH,250/500,1000,546,MALE,College,sales,Vehicle Theft,Rear Collision,Total Loss,47612,SUV,Y
+294,39,521818,2018,IL,250/500,2000,1907,MALE,Associate,tech-support,Vehicle Theft,Side Collision,Total Loss,35357,Truck,Y
+227,43,844149,2014,IN,100/300,1000,1729,FEMALE,Masters,tech-support,Vehicle Theft,Side Collision,Total Loss,11552,Sports Car,N
+371,73,937831,2007,IL,500/1000,500,1415,MALE,Masters,craft-repair,Vehicle Theft,Front Collision,Total Loss,18267,SUV,N
+15,35,778832,2007,OH,250/500,500,1008,MALE,Masters,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,20268,SUV,N
+192,67,804590,2019,OH,500/1000,1000,845,FEMALE,Associate,exec-managerial,Vehicle Theft,Side Collision,Total Loss,16263,Sports Car,N
+119,31,107099,2010,IL,100/300,1000,620,MALE,Associate,prof-specialty,Parked Car,Front Collision,Major Damage,7399,Sports Car,N
+28,64,873974,2021,IN,250/500,1000,1978,FEMALE,College,sales,Single Vehicle Collision,Side Collision,Total Loss,31811,SUV,Y
+202,46,518647,2016,IN,250/500,2000,1801,FEMALE,High School,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,31006,Truck,Y
+39,29,680780,2015,IN,100/300,500,1689,FEMALE,PhD,sales,Single Vehicle Collision,Side Collision,Major Damage,43271,Truck,Y
