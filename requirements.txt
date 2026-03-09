@@ -1,4 +1,4 @@
-2ping==4.5
+
 aiodns==3.2.0
 aiofiles==24.1.0
 aiohappyeyeballs==2.6.1
