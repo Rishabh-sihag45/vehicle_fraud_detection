@@ -34,7 +34,7 @@ predictions = model.predict(X_test)
 # Accuracy
 accuracy = accuracy_score(y_test, predictions)
 print("Model Accuracy:", accuracy)
-
+joblib.dump(encoders, "encoders.pkl")
 # Save model
 joblib.dump(model, "fraud_model.pkl")
 
