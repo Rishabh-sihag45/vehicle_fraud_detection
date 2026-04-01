@@ -6,14 +6,17 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 # Load dataset
-data = pd.read_csv("/home/rishabh/Desktop/vehicle_fraud_detection/insurance_claims.csv")
+data = pd.read_csv("insurance_claims.csv")
+
+# 🔥 Store encoders for each column
+encoders = {}
 
 # Convert text to numbers
-encoder = LabelEncoder()
-
 for column in data.columns:
     if data[column].dtype == 'object':
-        data[column] = encoder.fit_transform(data[column])
+        le = LabelEncoder()
+        data[column] = le.fit_transform(data[column].astype(str))
+        encoders[column] = le   # ✅ store encoder
 
 # Features and target
 X = data.drop("fraud_reported", axis=1)
@@ -34,8 +37,9 @@ predictions = model.predict(X_test)
 # Accuracy
 accuracy = accuracy_score(y_test, predictions)
 print("Model Accuracy:", accuracy)
-joblib.dump(encoders, "encoders.pkl")
-# Save model
-joblib.dump(model, "fraud_model.pkl")
 
-print("Model saved successfully")
+# ✅ Save both
+joblib.dump(model, "fraud_model.pkl")
+joblib.dump(encoders, "encoders.pkl")
+
+print("Model + Encoders saved successfully 🚀")
